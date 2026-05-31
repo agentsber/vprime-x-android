@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+?xml version="1.0" encoding="utf-8"?>
 <!--
   ~ Copyright 2023 Signal Messenger, LLC
   ~ SPDX-License-Identifier: AGPL-3.0-only
@@ -11,7 +11,7 @@
 
     <dialog
         android:id="@+id/progressCardDialogFragment"
-        android:name="org.thoughtcrime.securesms.components.ProgressCardDialogFragment"
+        android:name="com.vprimex.messenger.components.ProgressCardDialogFragment"
         android:label="progress_card_dialog_fragment">
 
         <argument

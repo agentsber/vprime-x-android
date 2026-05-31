@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+?xml version="1.0" encoding="utf-8"?>
 <!--
   ~ Copyright 2025 Signal Messenger, LLC
   ~ SPDX-License-Identifier: AGPL-3.0-only
@@ -12,7 +12,7 @@
 
     <fragment
         android:id="@+id/edit_proxy_fragment"
-        android:name="org.thoughtcrime.securesms.preferences.EditProxyFragment"
+        android:name="com.vprimex.messenger.preferences.EditProxyFragment"
         tools:layout="@layout/edit_proxy_fragment" />
 
 </navigation>

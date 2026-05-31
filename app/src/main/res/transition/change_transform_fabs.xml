@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+?xml version="1.0" encoding="utf-8"?>
 <transitionSet xmlns:tools="http://schemas.android.com/tools"
     android:duration="100"
     android:interpolator="@anim/camera_fab_cubic_easing_interpolator"

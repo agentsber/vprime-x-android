@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+?xml version="1.0" encoding="utf-8"?>
 <!--
   ~ Copyright 2023 Signal Messenger, LLC
   ~ SPDX-License-Identifier: AGPL-3.0-only
@@ -9,7 +9,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <org.thoughtcrime.securesms.conversation.AttachmentKeyboard
+    <com.vprimex.messenger.conversation.AttachmentKeyboard
         android:id="@+id/attachment_keyboard"
         android:layout_width="0dp"
         android:layout_height="0dp"
