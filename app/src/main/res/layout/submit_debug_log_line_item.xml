@@ -1,4 +1,4 @@
-com.vprimex.messenger.components.ListenableHorizontalScrollView
+<com.vprimex.messenger.components.ListenableHorizontalScrollView
     xmlns:tools="http://schemas.android.com/tools"
     tools:viewBindingIgnore="true"
     xmlns:android="http://schemas.android.com/apk/res/android"
