@@ -48,8 +48,13 @@ jobs:
             -PkeyAlias="${{ secrets.KEY_ALIAS }}" \
             -PkeyPassword="${{ secrets.KEY_PASSWORD }}" \
             --no-daemon \
-            --stacktrace \
-            --info 2>&1 | tail -100
+            --stacktrace 2>&1 | tee /tmp/gradle-output.log
+          exit_code=${PIPESTATUS[0]}
+          if [ $exit_code -ne 0 ]; then
+            echo "=== GRADLE ERRORS ==="
+            grep -E "error:|Caused by:|FAILURE:|What went wrong|> Task" /tmp/gradle-output.log | head -50
+            exit $exit_code
+          fi
 
       - name: Find APKs
         id: find_apk
