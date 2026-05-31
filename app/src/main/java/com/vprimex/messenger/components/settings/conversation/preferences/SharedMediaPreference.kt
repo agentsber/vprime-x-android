@@ -1,0 +1,49 @@
+﻿package com.vprimex.messenger.components.settings.conversation.preferences
+
+import android.view.View
+import com.bumptech.glide.Glide
+import com.vprimex.messenger.R
+import com.vprimex.messenger.components.ThreadPhotoRailView
+import com.vprimex.messenger.components.settings.PreferenceModel
+import com.vprimex.messenger.database.MediaTable
+import com.vprimex.messenger.util.ViewUtil
+import com.vprimex.messenger.util.adapter.mapping.LayoutFactory
+import com.vprimex.messenger.util.adapter.mapping.MappingAdapter
+import com.vprimex.messenger.util.adapter.mapping.MappingViewHolder
+
+/**
+ * Renders the shared media photo rail.
+ */
+object SharedMediaPreference {
+
+  fun register(adapter: MappingAdapter) {
+    adapter.registerFactory(Model::class.java, LayoutFactory(::ViewHolder, R.layout.conversation_settings_shared_media))
+  }
+
+  class Model(
+    val mediaRecords: List<MediaTable.MediaRecord>,
+    val mediaIds: List<Long>,
+    val onMediaRecordClick: (View, MediaTable.MediaRecord, Boolean) -> Unit
+  ) : PreferenceModel<Model>() {
+    override fun areItemsTheSame(newItem: Model): Boolean {
+      return true
+    }
+
+    override fun areContentsTheSame(newItem: Model): Boolean {
+      return super.areContentsTheSame(newItem) &&
+        mediaIds == newItem.mediaIds
+    }
+  }
+
+  private class ViewHolder(itemView: View) : MappingViewHolder<Model>(itemView) {
+
+    private val rail: ThreadPhotoRailView = itemView.findViewById(R.id.rail_view)
+
+    override fun bind(model: Model) {
+      rail.setMediaRecords(Glide.with(rail), model.mediaRecords)
+      rail.setListener { v, m ->
+        model.onMediaRecordClick(v, m, ViewUtil.isLtr(rail))
+      }
+    }
+  }
+}

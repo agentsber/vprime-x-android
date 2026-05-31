@@ -1,0 +1,56 @@
+﻿package com.vprimex.messenger.verify
+
+import android.os.Bundle
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import android.widget.ImageView
+import androidx.core.view.OneShotPreDrawListener
+import androidx.fragment.app.Fragment
+import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers
+import org.signal.core.util.concurrent.LifecycleDisposable
+import org.signal.qr.QrScannerView
+import org.signal.qr.kitkat.ScanListener
+import com.vprimex.messenger.R
+import com.vprimex.messenger.components.ShapeScrim
+import com.vprimex.messenger.mediasend.camerax.CameraXRemoteConfig
+import com.vprimex.messenger.util.ViewUtil
+import com.vprimex.messenger.util.fragments.findListener
+
+/**
+ * QR Scanner for identity verification
+ */
+class VerifyScanFragment : Fragment() {
+  private val lifecycleDisposable = LifecycleDisposable()
+
+  private lateinit var cameraView: QrScannerView
+  private lateinit var cameraScrim: ShapeScrim
+  private lateinit var cameraMarks: ImageView
+
+  override fun onCreateView(inflater: LayoutInflater, viewGroup: ViewGroup?, bundle: Bundle?): View? {
+    return ViewUtil.inflate(inflater, viewGroup!!, R.layout.verify_scan_fragment)
+  }
+
+  override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+    cameraView = view.findViewById(R.id.scanner)
+    cameraScrim = view.findViewById(R.id.camera_scrim)
+    cameraMarks = view.findViewById(R.id.camera_marks)
+    OneShotPreDrawListener.add(cameraScrim) {
+      val width = cameraScrim.scrimWidth
+      val height = cameraScrim.scrimHeight
+      ViewUtil.updateLayoutParams(cameraMarks, width, height)
+    }
+
+    cameraView.start(viewLifecycleOwner, CameraXRemoteConfig.isBlocklisted())
+
+    lifecycleDisposable.bindTo(viewLifecycleOwner)
+
+    lifecycleDisposable += cameraView
+      .qrData
+      .distinctUntilChanged()
+      .observeOn(AndroidSchedulers.mainThread())
+      .subscribe { qrData: String ->
+        findListener<ScanListener>()?.onQrDataFound(qrData)
+      }
+  }
+}
