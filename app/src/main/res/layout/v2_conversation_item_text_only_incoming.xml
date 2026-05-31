@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?><!--
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
   ~ Copyright 2023 Signal Messenger, LLC
   ~ SPDX-License-Identifier: AGPL-3.0-only
   -->
-<com.vprimex.messenger.conversation.v2.items.V2ConversationItemLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<org.thoughtcrime.securesms.conversation.v2.items.V2ConversationItemLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -30,7 +31,7 @@
         app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.Signal.Circle"
         app:srcCompat="@drawable/symbol_reply_24" />
 
-    <com.vprimex.messenger.components.AvatarImageView
+    <org.thoughtcrime.securesms.components.AvatarImageView
         android:id="@+id/contact_photo"
         android:layout_width="@dimen/conversation_item_avatar_size"
         android:layout_height="@dimen/conversation_item_avatar_size"
@@ -43,7 +44,7 @@
         app:layout_constraintStart_toStartOf="parent"
         tools:visibility="visible" />
 
-    <com.vprimex.messenger.badges.BadgeImageView
+    <org.thoughtcrime.securesms.badges.BadgeImageView
         android:id="@+id/badge"
         android:layout_width="16dp"
         android:layout_height="16dp"
@@ -69,7 +70,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:visibility="visible">
 
-        <com.vprimex.messenger.components.AvatarImageView
+        <org.thoughtcrime.securesms.components.AvatarImageView
             android:id="@+id/conversation_item_starred_source_avatar"
             android:layout_width="20dp"
             android:layout_height="20dp"
@@ -87,7 +88,7 @@
     </LinearLayout>
 
     <!-- Body -->
-    <com.vprimex.messenger.conversation.v2.items.ShrinkWrapLinearLayout
+    <org.thoughtcrime.securesms.conversation.v2.items.ShrinkWrapLinearLayout
         android:id="@+id/conversation_item_body_wrapper"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -108,7 +109,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
-            <com.vprimex.messenger.conversation.v2.items.SenderNameWithLabelView
+            <org.thoughtcrime.securesms.conversation.v2.items.SenderNameWithLabelView
                 android:id="@+id/group_sender_name_with_label"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -122,7 +123,7 @@
         </FrameLayout>
 
 
-        <com.vprimex.messenger.components.emoji.EmojiTextView
+        <org.thoughtcrime.securesms.components.emoji.EmojiTextView
             android:id="@+id/conversation_item_body"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -141,7 +142,7 @@
             app:measureLastLine="true"
             app:scaleEmojis="true"
             tools:text="Testy test test test" />
-    </com.vprimex.messenger.conversation.v2.items.ShrinkWrapLinearLayout>
+    </org.thoughtcrime.securesms.conversation.v2.items.ShrinkWrapLinearLayout>
 
     <!-- Footer -->
     <View
@@ -201,7 +202,7 @@
         app:layout_goneMarginEnd="0dp"
         tools:text="13:14pm" />
 
-    <com.vprimex.messenger.components.ExpirationTimerView
+    <org.thoughtcrime.securesms.components.ExpirationTimerView
         android:id="@+id/conversation_item_expiration_timer"
         android:layout_width="12dp"
         android:layout_height="12dp"
@@ -223,7 +224,7 @@
 
     <!-- Replies Icon -->
     <!-- Reactions -->
-    <com.vprimex.messenger.reactions.ReactionsConversationView
+    <org.thoughtcrime.securesms.reactions.ReactionsConversationView
         android:id="@+id/conversation_item_reactions"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -234,4 +235,4 @@
         app:layout_constraintTop_toBottomOf="@id/conversation_item_body_wrapper"
         app:rcv_outgoing="false" />
 
-</com.vprimex.messenger.conversation.v2.items.V2ConversationItemLayout>
+</org.thoughtcrime.securesms.conversation.v2.items.V2ConversationItemLayout>

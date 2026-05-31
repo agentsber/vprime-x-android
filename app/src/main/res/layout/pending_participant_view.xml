@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?><!--
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
   ~ Copyright 2023 Signal Messenger, LLC
   ~ SPDX-License-Identifier: AGPL-3.0-only
   -->
@@ -19,7 +20,7 @@
         android:layout_height="wrap_content"
         android:minHeight="72dp">
 
-        <com.vprimex.messenger.components.AvatarImageView
+        <org.thoughtcrime.securesms.components.AvatarImageView
             android:id="@+id/pending_participants_avatar"
             android:layout_width="48dp"
             android:layout_height="48dp"
@@ -29,7 +30,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:background="@color/red_100" />
 
-        <com.vprimex.messenger.components.emoji.EmojiTextView
+        <org.thoughtcrime.securesms.components.emoji.EmojiTextView
             android:id="@+id/pending_participants_name"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
