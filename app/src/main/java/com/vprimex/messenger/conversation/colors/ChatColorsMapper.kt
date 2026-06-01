@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.colors
+package com.vprimex.messenger.conversation.colors
 
 import com.google.common.collect.BiMap
 import com.google.common.collect.ImmutableBiMap

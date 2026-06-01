@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.paged
+package com.vprimex.messenger.contacts.paged
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

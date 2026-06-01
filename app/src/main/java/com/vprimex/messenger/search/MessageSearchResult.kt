@@ -1,3 +1,3 @@
-﻿package com.vprimex.messenger.search
+package com.vprimex.messenger.search
 
 data class MessageSearchResult(val results: List<MessageResult>, val query: String)

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.v2.groups
+package com.vprimex.messenger.conversation.v2.groups
 
 import com.vprimex.messenger.database.GroupTable
 

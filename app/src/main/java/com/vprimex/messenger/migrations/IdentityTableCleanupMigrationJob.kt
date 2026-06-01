@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.migrations
+package com.vprimex.messenger.migrations
 
 import org.signal.core.util.logging.Log
 import com.vprimex.messenger.database.IdentityTable

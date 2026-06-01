@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.fonts;
+package com.vprimex.messenger.fonts;
 
 import java.util.HashMap;
 import java.util.Locale;

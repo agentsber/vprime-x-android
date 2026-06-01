@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.data
+package com.vprimex.messenger.components.settings.app.data
 
 import com.vprimex.messenger.mms.SentMediaQuality
 import com.vprimex.messenger.webrtc.CallDataMode

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service;
+package com.vprimex.messenger.service;
 
 public class AccountVerificationTimeoutException extends Exception {
   public AccountVerificationTimeoutException() {

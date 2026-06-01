@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testing
+package com.vprimex.messenger.testing
 
 import org.signal.core.util.ThreadUtil
 import org.signal.core.util.concurrent.SignalExecutors

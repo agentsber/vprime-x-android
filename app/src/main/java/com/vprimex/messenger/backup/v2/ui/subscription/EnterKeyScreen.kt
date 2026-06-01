@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.backup.v2.ui.subscription
+package com.vprimex.messenger.backup.v2.ui.subscription
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

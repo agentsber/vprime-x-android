@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate.stripe
+package com.vprimex.messenger.components.settings.app.subscription.donate.stripe
 
 import androidx.lifecycle.ViewModel
 import com.google.android.gms.wallet.PaymentData

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database
+package com.vprimex.messenger.database
 
 import io.reactivex.rxjava3.core.BackpressureStrategy
 import io.reactivex.rxjava3.core.Emitter

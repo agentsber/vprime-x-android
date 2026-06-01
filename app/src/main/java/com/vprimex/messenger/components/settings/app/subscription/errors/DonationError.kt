@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.errors
+package com.vprimex.messenger.components.settings.app.subscription.errors
 
 import android.content.Context
 import io.reactivex.rxjava3.core.Observable

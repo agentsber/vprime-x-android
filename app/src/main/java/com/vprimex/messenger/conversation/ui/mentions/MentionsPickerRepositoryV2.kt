@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.mentions
+package com.vprimex.messenger.conversation.ui.mentions
 
 import io.reactivex.rxjava3.core.Single
 import io.reactivex.rxjava3.schedulers.Schedulers

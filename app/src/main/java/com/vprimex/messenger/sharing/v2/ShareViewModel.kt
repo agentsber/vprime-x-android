@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.sharing.v2
+package com.vprimex.messenger.sharing.v2
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.avatar.vector
+package com.vprimex.messenger.avatar.vector
 
 import com.vprimex.messenger.avatar.Avatar
 import com.vprimex.messenger.avatar.AvatarColorItem

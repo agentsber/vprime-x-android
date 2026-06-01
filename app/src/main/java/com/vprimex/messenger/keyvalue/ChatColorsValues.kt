@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue
+package com.vprimex.messenger.keyvalue
 
 import com.vprimex.messenger.conversation.colors.ChatColors
 import com.vprimex.messenger.database.model.databaseprotos.ChatColor

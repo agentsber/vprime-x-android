@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.fonts
+package com.vprimex.messenger.fonts
 
 import android.graphics.Typeface
 import androidx.annotation.DrawableRes

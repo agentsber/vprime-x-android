@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.scribbles;
+package com.vprimex.messenger.scribbles;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

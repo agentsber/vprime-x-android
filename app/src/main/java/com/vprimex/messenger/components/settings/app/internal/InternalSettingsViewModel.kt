@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.internal
+package com.vprimex.messenger.components.settings.app.internal
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

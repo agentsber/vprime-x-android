@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database
+package com.vprimex.messenger.database
 
 /**
  * A simple wrapper to load SQLCipher libs exactly once. The exact entry point of database access is non-deterministic because content providers run before

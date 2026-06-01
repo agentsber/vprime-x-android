@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.gifts.flow
+package com.vprimex.messenger.badges.gifts.flow
 
 import android.view.KeyEvent
 import android.widget.FrameLayout

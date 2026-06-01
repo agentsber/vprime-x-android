@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.proxy;
+package com.vprimex.messenger.proxy;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

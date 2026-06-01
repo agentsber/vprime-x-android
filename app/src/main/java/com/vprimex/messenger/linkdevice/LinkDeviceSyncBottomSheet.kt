@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.linkdevice
+package com.vprimex.messenger.linkdevice
 
 import android.content.DialogInterface
 import androidx.compose.foundation.background

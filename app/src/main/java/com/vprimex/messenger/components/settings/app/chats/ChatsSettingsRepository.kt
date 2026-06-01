@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.chats
+package com.vprimex.messenger.components.settings.app.chats
 
 import android.content.Context
 import org.signal.core.util.concurrent.SignalExecutors

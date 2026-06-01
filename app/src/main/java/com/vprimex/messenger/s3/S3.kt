@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.s3
+package com.vprimex.messenger.s3
 
 import android.content.Context
 import androidx.annotation.VisibleForTesting

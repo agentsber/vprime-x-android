@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.migrations;
+package com.vprimex.messenger.migrations;
 
 public class MigrationCompleteEvent {
 

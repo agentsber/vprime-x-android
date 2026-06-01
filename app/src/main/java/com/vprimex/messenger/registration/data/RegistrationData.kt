@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.registration.data
+package com.vprimex.messenger.registration.data
 
 import org.signal.libsignal.zkgroup.profiles.ProfileKey
 

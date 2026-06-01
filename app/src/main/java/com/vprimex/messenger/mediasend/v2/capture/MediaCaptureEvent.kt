@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.capture
+package com.vprimex.messenger.mediasend.v2.capture
 
 import org.signal.core.models.media.Media
 import com.vprimex.messenger.recipients.Recipient

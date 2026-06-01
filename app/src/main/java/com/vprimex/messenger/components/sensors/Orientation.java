@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.sensors;
+package com.vprimex.messenger.components.sensors;
 
 import androidx.annotation.NonNull;
 

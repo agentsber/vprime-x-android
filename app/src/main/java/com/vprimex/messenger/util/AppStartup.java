@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util;
+package com.vprimex.messenger.util;
 
 import android.app.Application;
 import android.os.Handler;

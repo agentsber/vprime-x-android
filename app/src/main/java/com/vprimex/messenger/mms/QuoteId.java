@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mms;
+package com.vprimex.messenger.mms;
 
 import android.content.Context;
 

@@ -1,4 +1,4 @@
-﻿@file:JvmName("DatabaseProtosUtil")
+@file:JvmName("DatabaseProtosUtil")
 
 package com.vprimex.messenger.database.model
 

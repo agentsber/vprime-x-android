@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service
+package com.vprimex.messenger.service
 
 import android.content.ComponentName
 import android.content.Context

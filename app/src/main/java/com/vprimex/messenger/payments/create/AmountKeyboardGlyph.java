@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.create;
+package com.vprimex.messenger.payments.create;
 
 import android.content.Context;
 

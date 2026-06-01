@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.ratelimit;
+package com.vprimex.messenger.ratelimit;
 
 public final class RecaptchaRequiredEvent {
 }

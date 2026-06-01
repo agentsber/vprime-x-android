@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 import android.view.animation.Animation
 import android.view.animation.Interpolator

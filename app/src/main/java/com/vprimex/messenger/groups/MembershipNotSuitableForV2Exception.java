@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups;
+package com.vprimex.messenger.groups;
 
 public final class MembershipNotSuitableForV2Exception extends Exception {
   public MembershipNotSuitableForV2Exception(String message) {

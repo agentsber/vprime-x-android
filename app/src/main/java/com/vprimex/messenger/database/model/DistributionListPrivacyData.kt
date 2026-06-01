@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model
+package com.vprimex.messenger.database.model
 
 /**
  * Data needed to know how a distribution privacy settings are configured.

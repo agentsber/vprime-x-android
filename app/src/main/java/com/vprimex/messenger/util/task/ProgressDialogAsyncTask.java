@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.task;
+package com.vprimex.messenger.util.task;
 
 import android.content.Context;
 import android.os.AsyncTask;

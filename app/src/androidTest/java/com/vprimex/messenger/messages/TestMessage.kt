@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messages
+package com.vprimex.messenger.messages
 
 import org.whispersystems.signalservice.api.crypto.EnvelopeMetadata
 import org.whispersystems.signalservice.internal.push.Content

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.camera;
+package com.vprimex.messenger.camera;
 
 import org.junit.Test;
 import com.vprimex.messenger.mediasend.OrderEnforcer;

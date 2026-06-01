@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate.gateway
+package com.vprimex.messenger.components.settings.app.subscription.donate.gateway
 
 import androidx.lifecycle.ViewModel
 import io.reactivex.rxjava3.core.Single

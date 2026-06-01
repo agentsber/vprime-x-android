@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.dependencies
+package com.vprimex.messenger.dependencies
 
 import android.app.Application
 import io.mockk.mockk

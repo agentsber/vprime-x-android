@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate.card
+package com.vprimex.messenger.components.settings.app.subscription.donate.card
 
 import org.signal.core.util.dp
 import com.vprimex.messenger.R

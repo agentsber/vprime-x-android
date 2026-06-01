@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.calls.log
+package com.vprimex.messenger.calls.log
 
 /**
  * Allows user to only display certain classes of calls.

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs
+package com.vprimex.messenger.jobs
 
 import android.text.TextUtils
 import org.signal.core.util.Base64

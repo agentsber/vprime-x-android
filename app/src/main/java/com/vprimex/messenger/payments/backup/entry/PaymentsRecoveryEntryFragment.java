@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.backup.entry;
+package com.vprimex.messenger.payments.backup.entry;
 
 import android.os.Bundle;
 import android.text.TextUtils;

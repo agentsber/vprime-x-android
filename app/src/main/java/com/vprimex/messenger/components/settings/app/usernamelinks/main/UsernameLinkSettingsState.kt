@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.usernamelinks.main
+package com.vprimex.messenger.components.settings.app.usernamelinks.main
 
 import com.vprimex.messenger.components.settings.app.usernamelinks.QrCodeState
 import com.vprimex.messenger.components.settings.app.usernamelinks.UsernameQrCodeColorScheme

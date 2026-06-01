@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model
+package com.vprimex.messenger.database.model
 
 /**
  * Represents whether a given story can be replied to.

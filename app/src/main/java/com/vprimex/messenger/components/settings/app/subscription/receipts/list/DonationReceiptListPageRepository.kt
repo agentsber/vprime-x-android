@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.receipts.list
+package com.vprimex.messenger.components.settings.app.subscription.receipts.list
 
 import io.reactivex.rxjava3.core.Single
 import io.reactivex.rxjava3.schedulers.Schedulers

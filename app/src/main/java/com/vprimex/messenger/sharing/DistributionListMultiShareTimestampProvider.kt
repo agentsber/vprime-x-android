@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.sharing
+package com.vprimex.messenger.sharing
 
 import androidx.annotation.Discouraged
 import kotlin.time.Duration

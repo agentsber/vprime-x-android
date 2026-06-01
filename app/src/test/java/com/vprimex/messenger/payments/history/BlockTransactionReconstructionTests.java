@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.history;
+package com.vprimex.messenger.payments.history;
 
 import androidx.annotation.NonNull;
 

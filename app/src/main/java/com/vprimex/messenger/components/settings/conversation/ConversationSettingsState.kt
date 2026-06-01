@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation
+package com.vprimex.messenger.components.settings.conversation
 
 import com.vprimex.messenger.components.settings.conversation.preferences.ButtonStripPreference
 import com.vprimex.messenger.components.settings.conversation.preferences.CallPreference

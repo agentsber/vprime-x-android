@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util;
+package com.vprimex.messenger.util;
 
 import android.graphics.Path;
 import android.graphics.Rect;

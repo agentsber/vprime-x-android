@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.webrtc.audio
+package com.vprimex.messenger.webrtc.audio
 
 import android.os.Handler
 import android.os.Looper

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.documents
+package com.vprimex.messenger.mediasend.v2.documents
 
 import android.os.Bundle
 import android.view.View

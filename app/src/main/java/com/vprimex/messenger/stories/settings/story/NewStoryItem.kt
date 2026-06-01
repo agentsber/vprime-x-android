@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.story
+package com.vprimex.messenger.stories.settings.story
 
 import com.vprimex.messenger.databinding.NewStoryItemBinding
 import com.vprimex.messenger.util.adapter.mapping.BindingFactory

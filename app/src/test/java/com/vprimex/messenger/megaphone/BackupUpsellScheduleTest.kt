@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.megaphone
+package com.vprimex.messenger.megaphone
 
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertTrue

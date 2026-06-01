@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.paging;
+package com.vprimex.messenger.util.paging;
 
 import androidx.annotation.NonNull;
 

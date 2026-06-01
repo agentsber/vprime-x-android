@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.v2.data
+package com.vprimex.messenger.conversation.v2.data
 
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

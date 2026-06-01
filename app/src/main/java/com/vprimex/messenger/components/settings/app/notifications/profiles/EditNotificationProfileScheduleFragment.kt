@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.notifications.profiles
+package com.vprimex.messenger.components.settings.app.notifications.profiles
 
 import android.content.Context
 import android.os.Bundle

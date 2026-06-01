@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.polls
+package com.vprimex.messenger.polls
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

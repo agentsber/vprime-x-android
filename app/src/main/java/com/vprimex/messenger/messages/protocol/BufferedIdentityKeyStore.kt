@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messages.protocol
+package com.vprimex.messenger.messages.protocol
 
 import org.signal.core.models.ServiceId
 import org.signal.libsignal.protocol.IdentityKey

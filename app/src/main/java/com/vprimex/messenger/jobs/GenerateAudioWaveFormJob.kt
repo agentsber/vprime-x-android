@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs
+package com.vprimex.messenger.jobs
 
 import org.signal.core.util.concurrent.safeBlockingGet
 import org.signal.core.util.logging.Log

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.recyclerview
+package com.vprimex.messenger.components.recyclerview
 
 import android.view.View
 

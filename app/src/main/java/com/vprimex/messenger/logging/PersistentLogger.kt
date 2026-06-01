@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.logging
+package com.vprimex.messenger.logging
 
 import android.app.Application
 import android.os.Looper

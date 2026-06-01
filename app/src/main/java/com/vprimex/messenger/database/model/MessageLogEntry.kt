@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model
+package com.vprimex.messenger.database.model
 
 import com.vprimex.messenger.recipients.RecipientId
 import org.whispersystems.signalservice.api.crypto.ContentHint

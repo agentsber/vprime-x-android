@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs
+package com.vprimex.messenger.jobs
 
 import org.signal.core.util.Base64
 import org.signal.core.util.logging.Log

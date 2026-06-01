@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation.sounds.custom
+package com.vprimex.messenger.components.settings.conversation.sounds.custom
 
 import android.app.Activity
 import android.content.Context

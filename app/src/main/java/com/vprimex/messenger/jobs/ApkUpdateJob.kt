@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs
+package com.vprimex.messenger.jobs
 
 import android.app.DownloadManager
 import android.content.Context

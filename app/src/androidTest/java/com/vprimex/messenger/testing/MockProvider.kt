@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testing
+package com.vprimex.messenger.testing
 
 import org.signal.core.models.ServiceId
 import org.signal.libsignal.protocol.IdentityKeyPair

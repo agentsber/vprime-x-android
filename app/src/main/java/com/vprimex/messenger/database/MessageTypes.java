@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database;
+package com.vprimex.messenger.database;
 
 /**
  * For storage efficiency, all types are stored within a single 64-bit integer column in the

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 import androidx.documentfile.provider.DocumentFile
 import io.mockk.every

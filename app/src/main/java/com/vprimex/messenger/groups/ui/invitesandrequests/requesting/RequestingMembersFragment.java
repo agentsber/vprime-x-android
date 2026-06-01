@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.ui.invitesandrequests.requesting;
+package com.vprimex.messenger.groups.ui.invitesandrequests.requesting;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

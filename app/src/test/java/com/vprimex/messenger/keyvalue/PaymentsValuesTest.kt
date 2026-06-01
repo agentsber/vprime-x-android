@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue
+package com.vprimex.messenger.keyvalue
 
 import android.app.Application
 import io.mockk.every

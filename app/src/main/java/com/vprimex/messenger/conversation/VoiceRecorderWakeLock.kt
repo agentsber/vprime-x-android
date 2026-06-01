@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation
+package com.vprimex.messenger.conversation
 
 import android.os.PowerManager
 import androidx.activity.ComponentActivity

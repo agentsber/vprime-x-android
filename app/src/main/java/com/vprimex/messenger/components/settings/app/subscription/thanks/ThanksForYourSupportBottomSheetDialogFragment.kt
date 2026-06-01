@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.thanks
+package com.vprimex.messenger.components.settings.app.subscription.thanks
 
 import android.animation.Animator
 import android.content.DialogInterface

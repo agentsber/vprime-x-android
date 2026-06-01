@@ -1,4 +1,4 @@
-﻿/** 
+/** 
  * Copyright (C) 2011 Whisper Systems
  * Copyright (C) 2013 Open Whisper Systems
  * 

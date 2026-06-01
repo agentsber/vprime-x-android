@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.gifts.flow
+package com.vprimex.messenger.badges.gifts.flow
 
 import android.content.Context
 import android.util.AttributeSet

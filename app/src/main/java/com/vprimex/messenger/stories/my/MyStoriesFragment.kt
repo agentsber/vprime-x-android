@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.my
+package com.vprimex.messenger.stories.my
 
 import android.net.Uri
 import android.view.View

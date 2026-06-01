@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobmanager
+package com.vprimex.messenger.jobmanager
 
 /**
  * Provides utilities to create consistent logging for jobs.

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.help;
+package com.vprimex.messenger.help;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.LiveData;

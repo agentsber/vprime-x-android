@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stickers.preview;
+package com.vprimex.messenger.stickers.preview;
 
 import android.content.Context;
 import android.database.Cursor;

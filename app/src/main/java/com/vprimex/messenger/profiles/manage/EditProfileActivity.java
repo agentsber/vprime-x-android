@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.manage;
+package com.vprimex.messenger.profiles.manage;
 
 import android.content.Context;
 import android.content.Intent;

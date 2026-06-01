@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.webrtc
+package com.vprimex.messenger.components.webrtc
 
 import android.opengl.EGL14
 import org.signal.core.util.logging.Log

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.preferences;
+package com.vprimex.messenger.payments.preferences;
 
 enum PaymentStateEvent {
   NO_BALANCE,

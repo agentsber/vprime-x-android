@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.webrtc;
+package com.vprimex.messenger.components.webrtc;
 
 import android.graphics.SurfaceTexture;
 import android.view.TextureView;

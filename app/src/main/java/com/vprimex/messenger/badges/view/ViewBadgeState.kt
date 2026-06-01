@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.view
+package com.vprimex.messenger.badges.view
 
 import com.vprimex.messenger.badges.models.Badge
 import com.vprimex.messenger.recipients.Recipient

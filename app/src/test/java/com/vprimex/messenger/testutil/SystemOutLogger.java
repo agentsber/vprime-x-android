@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testutil;
+package com.vprimex.messenger.testutil;
 
 import org.signal.core.util.logging.Log;
 

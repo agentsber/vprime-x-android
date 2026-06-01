@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contactshare;
+package com.vprimex.messenger.contactshare;
 
 import android.content.ContentValues;
 import android.content.Context;

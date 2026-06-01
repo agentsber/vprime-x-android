@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.preferences;
+package com.vprimex.messenger.preferences;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

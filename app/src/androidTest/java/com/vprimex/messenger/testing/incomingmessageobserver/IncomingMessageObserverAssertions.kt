@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testing.incomingmessageobserver
+package com.vprimex.messenger.testing.incomingmessageobserver
 
 import assertk.assertThat
 import assertk.assertions.isEqualTo

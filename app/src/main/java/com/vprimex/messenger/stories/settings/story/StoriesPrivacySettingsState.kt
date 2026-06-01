@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.story
+package com.vprimex.messenger.stories.settings.story
 
 import com.vprimex.messenger.contacts.paged.ContactSearchData
 import com.vprimex.messenger.stories.archive.StoryArchiveDuration

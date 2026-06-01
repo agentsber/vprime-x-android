@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.releasechannel
+package com.vprimex.messenger.releasechannel
 
 import com.vprimex.messenger.attachments.Cdn
 import com.vprimex.messenger.attachments.PointerAttachment

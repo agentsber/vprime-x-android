@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.longmessage;
+package com.vprimex.messenger.longmessage;
 
 import android.content.Context;
 import android.database.Cursor;

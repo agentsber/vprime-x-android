@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.recipients.ui.sharablegrouplink
+package com.vprimex.messenger.recipients.ui.sharablegrouplink
 
 import android.widget.Toast
 import androidx.annotation.StringRes

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.main
+package com.vprimex.messenger.main
 
 import androidx.lifecycle.LifecycleOwner
 import androidx.recyclerview.widget.RecyclerView

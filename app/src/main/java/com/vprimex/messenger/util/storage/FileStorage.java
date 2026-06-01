@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.storage;
+package com.vprimex.messenger.util.storage;
 
 import android.content.Context;
 

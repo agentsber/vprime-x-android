@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.my
+package com.vprimex.messenger.stories.my
 
 import com.vprimex.messenger.conversation.ConversationMessage
 import com.vprimex.messenger.database.model.MessageRecord

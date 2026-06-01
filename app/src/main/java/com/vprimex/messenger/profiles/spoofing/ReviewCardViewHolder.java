@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.spoofing;
+package com.vprimex.messenger.profiles.spoofing;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;

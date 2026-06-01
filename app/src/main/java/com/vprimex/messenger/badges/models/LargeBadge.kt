@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.models
+package com.vprimex.messenger.badges.models
 
 import android.content.Context
 import android.view.View

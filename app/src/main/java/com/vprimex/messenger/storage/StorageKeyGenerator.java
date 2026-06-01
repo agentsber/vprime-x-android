@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.storage;
+package com.vprimex.messenger.storage;
 
 import androidx.annotation.NonNull;
 

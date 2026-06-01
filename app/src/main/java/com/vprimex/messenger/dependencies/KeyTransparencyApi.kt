@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.dependencies
+package com.vprimex.messenger.dependencies
 
 import org.signal.core.util.logging.Log
 import org.signal.libsignal.keytrans.KeyTransparencyException

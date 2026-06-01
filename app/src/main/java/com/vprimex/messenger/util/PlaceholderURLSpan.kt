@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 /**
  * Marks a region where a link should later be applied, without storing it as an actual [URLSpan].

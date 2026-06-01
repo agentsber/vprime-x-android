@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.review;
+package com.vprimex.messenger.mediasend.v2.review;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.ItemTouchHelper;

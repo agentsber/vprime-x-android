@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.adapter;
+package com.vprimex.messenger.util.adapter;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.DiffUtil;

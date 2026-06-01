@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.review
+package com.vprimex.messenger.mediasend.v2.review
 
 import com.vprimex.messenger.stories.Stories
 import kotlin.math.max

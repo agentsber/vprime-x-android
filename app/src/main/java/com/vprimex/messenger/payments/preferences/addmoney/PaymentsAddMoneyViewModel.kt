@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.preferences.addmoney
+package com.vprimex.messenger.payments.preferences.addmoney
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

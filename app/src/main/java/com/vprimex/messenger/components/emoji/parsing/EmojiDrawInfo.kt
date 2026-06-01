@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.emoji.parsing
+package com.vprimex.messenger.components.emoji.parsing
 
 import com.vprimex.messenger.emoji.EmojiPage
 

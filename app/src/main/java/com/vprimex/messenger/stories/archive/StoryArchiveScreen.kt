@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.archive
+package com.vprimex.messenger.stories.archive
 
 import android.view.View
 import android.widget.ImageView

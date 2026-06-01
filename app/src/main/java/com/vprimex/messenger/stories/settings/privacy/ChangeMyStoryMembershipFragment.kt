@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.privacy
+package com.vprimex.messenger.stories.settings.privacy
 
 import androidx.appcompat.widget.Toolbar
 import androidx.fragment.app.DialogFragment

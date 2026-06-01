@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.revealable;
+package com.vprimex.messenger.revealable;
 
 import android.content.Context;
 import android.content.res.TypedArray;

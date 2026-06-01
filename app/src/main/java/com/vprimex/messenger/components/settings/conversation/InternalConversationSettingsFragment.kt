@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation
+package com.vprimex.messenger.components.settings.conversation
 
 import android.graphics.Bitmap
 import android.widget.Toast

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.camerax;
+package com.vprimex.messenger.mediasend.camerax;
 
 import androidx.annotation.NonNull;
 

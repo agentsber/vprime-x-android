@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.delete;
+package com.vprimex.messenger.delete;
 
 import android.text.TextUtils;
 

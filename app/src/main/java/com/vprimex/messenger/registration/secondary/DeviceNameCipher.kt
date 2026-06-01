@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.registration.secondary
+package com.vprimex.messenger.registration.secondary
 
 import okio.ByteString.Companion.toByteString
 import org.signal.core.util.logging.Log

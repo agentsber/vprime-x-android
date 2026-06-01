@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database
+package com.vprimex.messenger.database
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import org.junit.Assert.assertArrayEquals

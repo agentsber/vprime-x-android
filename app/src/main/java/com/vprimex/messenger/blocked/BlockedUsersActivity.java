@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.blocked;
+package com.vprimex.messenger.blocked;
 
 import android.content.Intent;
 import android.graphics.Color;

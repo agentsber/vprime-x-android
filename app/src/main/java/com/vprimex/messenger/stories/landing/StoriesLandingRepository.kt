@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.landing
+package com.vprimex.messenger.stories.landing
 
 import android.content.Context
 import io.reactivex.rxjava3.core.Completable

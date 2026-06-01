@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.edit.pnp
+package com.vprimex.messenger.profiles.edit.pnp
 
 import io.reactivex.rxjava3.core.Completable
 import com.vprimex.messenger.dependencies.AppDependencies

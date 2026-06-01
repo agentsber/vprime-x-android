@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.video.exo;
+package com.vprimex.messenger.video.exo;
 
 
 import android.net.Uri;

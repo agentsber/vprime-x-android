@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.custom.viewers
+package com.vprimex.messenger.stories.settings.custom.viewers
 
 import com.vprimex.messenger.R
 import com.vprimex.messenger.database.model.DistributionListId

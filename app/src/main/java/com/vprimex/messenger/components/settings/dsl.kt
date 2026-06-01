@@ -1,4 +1,4 @@
-﻿@file:Suppress("ktlint:standard:filename")
+@file:Suppress("ktlint:standard:filename")
 
 package com.vprimex.messenger.components.settings
 

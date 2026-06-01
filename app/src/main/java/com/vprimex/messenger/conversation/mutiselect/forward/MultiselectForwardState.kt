@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.mutiselect.forward
+package com.vprimex.messenger.conversation.mutiselect.forward
 
 import com.vprimex.messenger.contacts.paged.ContactSearchKey
 import com.vprimex.messenger.database.model.IdentityRecord

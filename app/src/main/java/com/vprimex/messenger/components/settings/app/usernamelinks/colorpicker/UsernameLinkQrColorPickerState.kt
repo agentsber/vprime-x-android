@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.usernamelinks.colorpicker
+package com.vprimex.messenger.components.settings.app.usernamelinks.colorpicker
 
 import kotlinx.collections.immutable.ImmutableList
 import com.vprimex.messenger.components.settings.app.usernamelinks.QrCodeState

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobmanager
+package com.vprimex.messenger.jobmanager
 
 import io.mockk.every
 import io.mockk.mockk

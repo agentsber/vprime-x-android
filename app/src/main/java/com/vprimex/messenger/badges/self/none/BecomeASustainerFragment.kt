@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.self.none
+package com.vprimex.messenger.badges.self.none
 
 import android.content.Intent
 import androidx.core.content.ContextCompat

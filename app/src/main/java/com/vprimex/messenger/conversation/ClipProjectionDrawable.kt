@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation
+package com.vprimex.messenger.conversation
 
 import android.graphics.Canvas
 import android.graphics.Color

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.self.expired
+package com.vprimex.messenger.badges.self.expired
 
 import androidx.fragment.app.FragmentManager
 import org.signal.core.ui.BottomSheetUtil

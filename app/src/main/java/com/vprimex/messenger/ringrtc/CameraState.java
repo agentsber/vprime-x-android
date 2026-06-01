@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.ringrtc;
+package com.vprimex.messenger.ringrtc;
 
 import android.os.Parcel;
 import android.os.Parcelable;

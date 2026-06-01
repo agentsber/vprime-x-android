@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.privacy.pnp
+package com.vprimex.messenger.components.settings.app.privacy.pnp
 
 import android.content.res.Configuration
 import android.os.Bundle

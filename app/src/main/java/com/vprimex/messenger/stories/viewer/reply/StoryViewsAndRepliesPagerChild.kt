@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.reply
+package com.vprimex.messenger.stories.viewer.reply
 
 /**
  * Implemented by a Fragment that may be the child of a view-pager.

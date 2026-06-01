@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.usernamelinks.main
+package com.vprimex.messenger.components.settings.app.usernamelinks.main
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.color;
+package com.vprimex.messenger.color;
 
 import android.content.Context;
 import android.graphics.Color;

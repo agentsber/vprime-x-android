@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service.webrtc.state
+package com.vprimex.messenger.service.webrtc.state
 
 import org.signal.ringrtc.CallId
 import org.signal.ringrtc.CallManager.CallEndReason

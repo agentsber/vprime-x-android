@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups;
+package com.vprimex.messenger.groups;
 
 import android.content.Context;
 import android.content.res.Resources;

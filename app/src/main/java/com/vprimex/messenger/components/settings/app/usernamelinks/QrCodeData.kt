@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.usernamelinks
+package com.vprimex.messenger.components.settings.app.usernamelinks
 
 import androidx.annotation.WorkerThread
 import androidx.compose.ui.unit.IntOffset

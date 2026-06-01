@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.dynamiclanguage;
+package com.vprimex.messenger.util.dynamiclanguage;
 
 import android.app.Application;
 import android.content.res.Resources;

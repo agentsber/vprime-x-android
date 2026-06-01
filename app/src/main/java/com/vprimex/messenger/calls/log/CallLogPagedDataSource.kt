@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.calls.log
+package com.vprimex.messenger.calls.log
 
 import org.signal.core.util.Stopwatch
 import org.signal.core.util.logging.Log

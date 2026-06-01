@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription
+package com.vprimex.messenger.components.settings.app.subscription
 
 import org.signal.core.util.money.FiatMoney
 import org.signal.core.util.money.PlatformCurrencyUtil

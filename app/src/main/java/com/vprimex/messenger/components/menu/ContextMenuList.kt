@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.menu
+package com.vprimex.messenger.components.menu
 
 import android.view.View
 import android.widget.ImageView

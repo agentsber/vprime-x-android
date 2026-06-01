@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.quotes
+package com.vprimex.messenger.conversation.quotes
 
 import android.content.Context
 import android.graphics.Canvas

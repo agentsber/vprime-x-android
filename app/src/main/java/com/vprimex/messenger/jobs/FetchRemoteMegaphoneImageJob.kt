@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs
+package com.vprimex.messenger.jobs
 
 import okhttp3.ResponseBody
 import org.signal.core.util.logging.Log

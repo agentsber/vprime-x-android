@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.errors
+package com.vprimex.messenger.components.settings.app.subscription.errors
 
 /**
  * Error states that can occur if we detect that a user's subscription has been cancelled and the manual

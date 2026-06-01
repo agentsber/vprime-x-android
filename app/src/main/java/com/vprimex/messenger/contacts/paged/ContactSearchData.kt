@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.paged
+package com.vprimex.messenger.contacts.paged
 
 import android.os.Bundle
 import androidx.annotation.VisibleForTesting

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.livedata;
+package com.vprimex.messenger.util.livedata;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.Observer;

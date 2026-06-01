@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.compose
+package com.vprimex.messenger.compose
 
 import android.animation.ValueAnimator
 import android.app.Activity

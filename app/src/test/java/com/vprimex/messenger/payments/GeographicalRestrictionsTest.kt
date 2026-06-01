@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments
+package com.vprimex.messenger.payments
 
 import io.mockk.every
 import io.mockk.mockkStatic

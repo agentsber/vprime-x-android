@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.emoji
+package com.vprimex.messenger.emoji
 
 import androidx.annotation.AttrRes
 import androidx.annotation.StringRes

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.chats.folders
+package com.vprimex.messenger.components.settings.app.chats.folders
 
 import android.widget.Toast
 import androidx.compose.foundation.ExperimentalFoundationApi

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.landing
+package com.vprimex.messenger.stories.landing
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

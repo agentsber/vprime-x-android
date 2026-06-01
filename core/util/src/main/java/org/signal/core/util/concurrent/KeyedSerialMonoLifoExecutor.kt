@@ -1,4 +1,4 @@
-﻿package org.signal.core.util.concurrent
+package org.signal.core.util.concurrent
 
 import java.util.concurrent.Executor
 

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.migrations
+package com.vprimex.messenger.migrations
 
 import com.vprimex.messenger.dependencies.AppDependencies
 import com.vprimex.messenger.jobmanager.Job

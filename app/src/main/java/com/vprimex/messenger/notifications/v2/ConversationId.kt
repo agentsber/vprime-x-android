@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.notifications.v2
+package com.vprimex.messenger.notifications.v2
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

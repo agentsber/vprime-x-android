@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.errors
+package com.vprimex.messenger.components.settings.app.subscription.errors
 
 import androidx.annotation.StringRes
 import org.signal.donations.InAppPaymentType

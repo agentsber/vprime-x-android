@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messages
+package com.vprimex.messenger.messages
 
 import android.graphics.Color
 import org.signal.core.util.Base64

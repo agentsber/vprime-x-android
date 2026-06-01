@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.reply.reaction
+package com.vprimex.messenger.stories.viewer.reply.reaction
 
 import android.content.Context
 import android.util.AttributeSet

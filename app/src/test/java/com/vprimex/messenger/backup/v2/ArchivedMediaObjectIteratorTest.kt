@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.backup.v2
+package com.vprimex.messenger.backup.v2
 
 import assertk.assertThat
 import assertk.assertions.hasSize

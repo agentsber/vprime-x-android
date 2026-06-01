@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.deeplinks;
+package com.vprimex.messenger.deeplinks;
 
 import android.content.Intent;
 import android.net.Uri;

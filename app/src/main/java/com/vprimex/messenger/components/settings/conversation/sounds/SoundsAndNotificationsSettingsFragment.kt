@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation.sounds
+package com.vprimex.messenger.components.settings.conversation.sounds
 
 import androidx.fragment.app.viewModels
 import androidx.navigation.Navigation

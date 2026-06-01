@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.manage
+package com.vprimex.messenger.profiles.manage
 
 import android.content.ActivityNotFoundException
 import android.content.Intent

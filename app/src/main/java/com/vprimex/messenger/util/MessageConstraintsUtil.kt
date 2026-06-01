@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 import com.vprimex.messenger.database.SignalDatabase
 import com.vprimex.messenger.database.model.GroupRecord

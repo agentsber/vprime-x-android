@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.emoji
+package com.vprimex.messenger.emoji
 
 import android.net.Uri
 import androidx.annotation.VisibleForTesting

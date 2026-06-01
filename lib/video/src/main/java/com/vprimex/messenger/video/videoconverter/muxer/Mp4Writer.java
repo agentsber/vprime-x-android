@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Copyright (C) https://github.com/sannies/mp4parser/blob/master/LICENSE
  *
  * Licensed under the Apache License, Version 2.0 (the "License");

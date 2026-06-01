@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.reconciliation;
+package com.vprimex.messenger.payments.reconciliation;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.WorkerThread;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.ui.invitesandrequests.invite;
+package com.vprimex.messenger.groups.ui.invitesandrequests.invite;
 
 enum EnableInviteLinkError {
   BUSY,

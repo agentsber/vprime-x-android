@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.wallpaper;
+package com.vprimex.messenger.wallpaper;
 
 import android.content.res.ColorStateList;
 import android.graphics.PorterDuff;

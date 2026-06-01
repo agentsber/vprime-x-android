@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.images
+package com.vprimex.messenger.mediasend.v2.images
 
 import android.net.Uri
 import android.os.Bundle

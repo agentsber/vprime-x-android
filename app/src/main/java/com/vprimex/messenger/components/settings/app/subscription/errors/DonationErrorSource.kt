@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.errors
+package com.vprimex.messenger.components.settings.app.subscription.errors
 
 /**
  * Descriptor of where an error originated from.

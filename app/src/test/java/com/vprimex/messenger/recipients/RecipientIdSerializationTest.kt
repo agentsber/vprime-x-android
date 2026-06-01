@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.recipients
+package com.vprimex.messenger.recipients
 
 import assertk.assertThat
 import assertk.assertions.containsExactly

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.notifications.v2
+package com.vprimex.messenger.notifications.v2
 
 import org.signal.core.util.logging.Log
 

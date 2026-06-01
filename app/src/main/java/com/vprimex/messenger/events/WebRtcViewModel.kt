@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.events
+package com.vprimex.messenger.events
 
 import org.signal.ringrtc.CallManager.CallEndReason
 import com.vprimex.messenger.components.webrtc.BroadcastVideoSink

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.currency
+package com.vprimex.messenger.components.settings.app.subscription.currency
 
 import androidx.fragment.app.viewModels
 import com.vprimex.messenger.components.settings.DSLConfiguration

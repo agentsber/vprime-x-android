@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.calls.log
+package com.vprimex.messenger.calls.log
 
 import androidx.annotation.MainThread
 import io.reactivex.rxjava3.core.Single

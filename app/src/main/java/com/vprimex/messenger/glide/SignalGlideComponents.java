@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.glide;
+package com.vprimex.messenger.glide;
 
 import android.content.Context;
 import android.graphics.Bitmap;

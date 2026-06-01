@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.registration.secondary
+package com.vprimex.messenger.registration.secondary
 
 import assertk.assertThat
 import assertk.assertions.isEqualTo

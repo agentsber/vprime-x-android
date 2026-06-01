@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.events;
+package com.vprimex.messenger.events;
 
 import androidx.annotation.NonNull;
 

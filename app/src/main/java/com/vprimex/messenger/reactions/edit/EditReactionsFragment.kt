@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.reactions.edit
+package com.vprimex.messenger.reactions.edit
 
 import android.animation.ObjectAnimator
 import android.os.Bundle

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs
+package com.vprimex.messenger.jobs
 
 import kotlinx.coroutines.runBlocking
 import org.signal.core.models.backup.MediaName

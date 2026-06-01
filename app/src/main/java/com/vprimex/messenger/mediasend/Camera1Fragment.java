@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend;
+package com.vprimex.messenger.mediasend;
 
 import android.animation.Animator;
 import android.annotation.SuppressLint;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer
+package com.vprimex.messenger.stories.viewer
 
 import io.reactivex.rxjava3.core.Single
 import io.reactivex.rxjava3.schedulers.Schedulers

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.dualsim
+package com.vprimex.messenger.util.dualsim
 
 import android.content.Context
 import android.content.pm.PackageManager.FEATURE_TELEPHONY_RADIO_ACCESS

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversationlist.chatfilter
+package com.vprimex.messenger.conversationlist.chatfilter
 
 /**
  * Represents the state of the filter pull.

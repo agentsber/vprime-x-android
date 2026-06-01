@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.notifications.manual.models
+package com.vprimex.messenger.components.settings.app.notifications.manual.models
 
 import android.view.View
 import android.widget.TextView

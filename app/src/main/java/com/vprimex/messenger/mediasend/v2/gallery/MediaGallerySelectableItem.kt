@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.gallery
+package com.vprimex.messenger.mediasend.v2.gallery
 
 import android.animation.ValueAnimator
 import android.graphics.drawable.Drawable

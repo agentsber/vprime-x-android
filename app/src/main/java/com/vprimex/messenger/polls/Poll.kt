@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.polls
+package com.vprimex.messenger.polls
 
 import android.os.Bundle
 import android.os.Parcelable

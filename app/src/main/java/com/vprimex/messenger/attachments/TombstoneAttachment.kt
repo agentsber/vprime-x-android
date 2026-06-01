@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.attachments
+package com.vprimex.messenger.attachments
 
 import android.net.Uri
 import android.os.Parcel

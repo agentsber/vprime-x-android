@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.spans;
+package com.vprimex.messenger.util.spans;
 
 
 import android.text.TextPaint;

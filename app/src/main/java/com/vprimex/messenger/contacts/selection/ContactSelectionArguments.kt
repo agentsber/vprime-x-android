@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.selection
+package com.vprimex.messenger.contacts.selection
 
 import android.content.Intent
 import android.os.Bundle

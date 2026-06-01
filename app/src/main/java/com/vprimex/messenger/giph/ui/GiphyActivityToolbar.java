@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.giph.ui;
+package com.vprimex.messenger.giph.ui;
 
 
 import android.content.Context;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.self.overview
+package com.vprimex.messenger.badges.self.overview
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

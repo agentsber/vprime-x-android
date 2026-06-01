@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.safety
+package com.vprimex.messenger.safety
 
 import android.content.Context
 import android.os.Bundle

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contactshare;
+package com.vprimex.messenger.contactshare;
 
 import android.provider.ContactsContract;
 import android.text.TextUtils;

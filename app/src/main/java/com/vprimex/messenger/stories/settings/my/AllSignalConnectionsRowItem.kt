@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.my
+package com.vprimex.messenger.stories.settings.my
 
 import com.vprimex.messenger.R
 import com.vprimex.messenger.databinding.AllSignalConnectionsRowItemBinding

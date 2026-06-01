@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger;
+package com.vprimex.messenger;
 
 import org.signal.libsignal.zkgroup.ServerPublicParams;
 import org.signal.libsignal.zkgroup.ServerSecretParams;

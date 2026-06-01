@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.paged
+package com.vprimex.messenger.contacts.paged
 
 /**
  * Number of active contacts for a given section, handed to the expand config.

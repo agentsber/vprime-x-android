@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.preferences;
+package com.vprimex.messenger.preferences;
 
 import android.Manifest;
 import android.app.Activity;

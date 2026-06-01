@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.confirm;
+package com.vprimex.messenger.payments.confirm;
 
 import android.content.Context;
 import android.view.View;

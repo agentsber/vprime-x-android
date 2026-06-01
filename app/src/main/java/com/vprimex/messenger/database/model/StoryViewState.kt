@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model
+package com.vprimex.messenger.database.model
 
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.schedulers.Schedulers

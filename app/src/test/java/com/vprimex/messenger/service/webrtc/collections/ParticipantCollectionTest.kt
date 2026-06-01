@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service.webrtc.collections
+package com.vprimex.messenger.service.webrtc.collections
 
 import assertk.Assert
 import assertk.assertThat

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.l10n
+package com.vprimex.messenger.l10n
 
 import assertk.assertThat
 import assertk.assertions.isEmpty

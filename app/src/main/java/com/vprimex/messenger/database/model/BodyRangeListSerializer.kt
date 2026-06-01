@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model
+package com.vprimex.messenger.database.model
 
 import org.signal.core.util.Base64
 import org.signal.core.util.StringSerializer

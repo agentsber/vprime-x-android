@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.backup.phrase;
+package com.vprimex.messenger.payments.backup.phrase;
 
 import androidx.annotation.NonNull;
 import androidx.core.util.Consumer;

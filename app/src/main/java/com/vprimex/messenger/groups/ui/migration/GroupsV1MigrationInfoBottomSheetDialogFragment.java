@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.ui.migration;
+package com.vprimex.messenger.groups.ui.migration;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

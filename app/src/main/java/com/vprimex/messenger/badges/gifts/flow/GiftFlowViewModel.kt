@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.gifts.flow
+package com.vprimex.messenger.badges.gifts.flow
 
 import androidx.lifecycle.ViewModel
 import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers

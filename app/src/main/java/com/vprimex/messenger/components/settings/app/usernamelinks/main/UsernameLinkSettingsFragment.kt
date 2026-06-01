@@ -1,4 +1,4 @@
-﻿@file:OptIn(ExperimentalMaterial3Api::class, ExperimentalPermissionsApi::class)
+@file:OptIn(ExperimentalMaterial3Api::class, ExperimentalPermissionsApi::class)
 
 package com.vprimex.messenger.components.settings.app.usernamelinks.main
 

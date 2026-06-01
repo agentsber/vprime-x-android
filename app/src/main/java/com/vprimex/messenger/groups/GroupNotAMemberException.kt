@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups
+package com.vprimex.messenger.groups
 
 class GroupNotAMemberException : GroupChangeException {
   constructor()

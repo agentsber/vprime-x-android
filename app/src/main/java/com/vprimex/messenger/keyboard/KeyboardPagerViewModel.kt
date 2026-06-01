@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard
+package com.vprimex.messenger.keyboard
 
 import androidx.annotation.MainThread
 import androidx.lifecycle.LiveData

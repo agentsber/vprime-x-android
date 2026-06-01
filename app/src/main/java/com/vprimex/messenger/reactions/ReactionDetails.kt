@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.reactions
+package com.vprimex.messenger.reactions
 
 import com.vprimex.messenger.recipients.Recipient
 

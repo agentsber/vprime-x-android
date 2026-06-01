@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.sticker
+package com.vprimex.messenger.keyboard.sticker
 
 import android.net.Uri
 import org.signal.core.util.concurrent.SignalExecutors

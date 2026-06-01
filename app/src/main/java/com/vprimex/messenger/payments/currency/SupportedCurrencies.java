@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.currency;
+package com.vprimex.messenger.payments.currency;
 
 import java.util.Arrays;
 import java.util.HashSet;

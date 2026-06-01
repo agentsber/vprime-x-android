@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.backup.v2
+package com.vprimex.messenger.backup.v2
 
 import android.app.Application
 import assertk.assertThat

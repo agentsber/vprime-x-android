@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.recipients
+package com.vprimex.messenger.recipients
 
 import io.mockk.every
 import io.mockk.mockk

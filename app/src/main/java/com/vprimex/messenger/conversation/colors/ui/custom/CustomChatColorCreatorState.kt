@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.colors.ui.custom
+package com.vprimex.messenger.conversation.colors.ui.custom
 
 import com.vprimex.messenger.wallpaper.ChatWallpaper
 import java.util.EnumMap

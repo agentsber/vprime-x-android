@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.megaphone
+package com.vprimex.messenger.megaphone
 
 import android.annotation.SuppressLint
 import android.app.Activity

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.account.export
+package com.vprimex.messenger.components.settings.app.account.export
 
 import android.annotation.SuppressLint
 import android.app.Application

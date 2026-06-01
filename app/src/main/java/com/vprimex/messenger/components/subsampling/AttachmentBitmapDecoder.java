@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.subsampling;
+package com.vprimex.messenger.components.subsampling;
 
 
 import android.content.Context;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.webrtc;
+package com.vprimex.messenger.webrtc;
 
 import org.signal.core.util.logging.Log;
 

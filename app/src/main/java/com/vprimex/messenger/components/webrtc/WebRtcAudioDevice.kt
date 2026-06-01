@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.webrtc
+package com.vprimex.messenger.components.webrtc
 
 /**
  * Holder class to smooth over the pre/post API 31 calls.

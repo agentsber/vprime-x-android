@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.migrations;
+package com.vprimex.messenger.migrations;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobmanager;
+package com.vprimex.messenger.jobmanager;
 
 import android.app.Application;
 import android.content.Intent;

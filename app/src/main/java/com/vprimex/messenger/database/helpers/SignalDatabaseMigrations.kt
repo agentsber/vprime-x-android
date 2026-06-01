@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.helpers
+package com.vprimex.messenger.database.helpers
 
 import android.app.Application
 import android.content.Context

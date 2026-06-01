@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation
+package com.vprimex.messenger.conversation
 
 import androidx.core.view.doOnNextLayout
 import androidx.recyclerview.widget.RecyclerView

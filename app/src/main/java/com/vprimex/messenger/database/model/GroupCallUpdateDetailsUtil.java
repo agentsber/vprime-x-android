@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model;
+package com.vprimex.messenger.database.model;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

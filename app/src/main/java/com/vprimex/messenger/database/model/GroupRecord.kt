@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model
+package com.vprimex.messenger.database.model
 
 import androidx.annotation.WorkerThread
 import org.signal.libsignal.zkgroup.groups.GroupMasterKey

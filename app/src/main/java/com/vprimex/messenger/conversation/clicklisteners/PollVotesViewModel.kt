@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.clicklisteners
+package com.vprimex.messenger.conversation.clicklisteners
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

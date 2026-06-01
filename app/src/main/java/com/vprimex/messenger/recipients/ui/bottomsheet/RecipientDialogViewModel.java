@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.recipients.ui.bottomsheet;
+package com.vprimex.messenger.recipients.ui.bottomsheet;
 
 import android.app.Activity;
 import android.content.Context;

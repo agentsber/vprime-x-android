@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 import com.google.android.gms.wallet.WalletConstants
 import org.signal.donations.GooglePayApi

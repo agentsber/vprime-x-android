@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments
+package com.vprimex.messenger.payments
 
 import com.mobilecoin.lib.Verifier
 import com.mobilecoin.lib.exceptions.AttestationException

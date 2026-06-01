@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.webrtc.audio
+package com.vprimex.messenger.webrtc.audio
 
 import android.media.AudioDeviceInfo
 import androidx.annotation.RequiresApi

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.linkdevice
+package com.vprimex.messenger.linkdevice
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row

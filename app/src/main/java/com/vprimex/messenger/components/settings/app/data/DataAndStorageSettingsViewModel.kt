@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.data
+package com.vprimex.messenger.components.settings.app.data
 
 import android.content.SharedPreferences
 import androidx.lifecycle.ViewModel

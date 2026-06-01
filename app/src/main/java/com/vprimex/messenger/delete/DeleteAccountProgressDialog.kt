@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.delete
+package com.vprimex.messenger.delete
 
 import android.content.Context
 import android.widget.ProgressBar

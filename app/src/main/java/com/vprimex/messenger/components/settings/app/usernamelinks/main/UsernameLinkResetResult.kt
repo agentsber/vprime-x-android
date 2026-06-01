@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.usernamelinks.main
+package com.vprimex.messenger.components.settings.app.usernamelinks.main
 
 import org.whispersystems.signalservice.api.push.UsernameLinkComponents
 

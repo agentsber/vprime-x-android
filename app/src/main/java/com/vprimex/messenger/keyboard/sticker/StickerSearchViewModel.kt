@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.sticker
+package com.vprimex.messenger.keyboard.sticker
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

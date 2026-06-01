@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.help;
+package com.vprimex.messenger.help;
 
 import android.content.Intent;
 import android.net.Uri;

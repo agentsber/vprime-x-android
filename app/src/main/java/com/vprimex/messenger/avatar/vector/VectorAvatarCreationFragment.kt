@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.avatar.vector
+package com.vprimex.messenger.avatar.vector
 
 import android.os.Bundle
 import android.view.View

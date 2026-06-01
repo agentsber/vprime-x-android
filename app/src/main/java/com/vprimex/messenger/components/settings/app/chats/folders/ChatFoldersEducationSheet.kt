@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.chats.folders
+package com.vprimex.messenger.components.settings.app.chats.folders
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column

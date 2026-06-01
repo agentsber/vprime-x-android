@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.paged
+package com.vprimex.messenger.contacts.paged
 
 import com.vprimex.messenger.contacts.HeaderAction
 import com.vprimex.messenger.database.RecipientTable

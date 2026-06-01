@@ -1,4 +1,4 @@
-﻿@file:JvmName("MessageRecordUtil")
+@file:JvmName("MessageRecordUtil")
 
 package com.vprimex.messenger.util
 

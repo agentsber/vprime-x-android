@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database
+package com.vprimex.messenger.database
 
 import com.vprimex.messenger.database.model.databaseprotos.MessageExtras
 

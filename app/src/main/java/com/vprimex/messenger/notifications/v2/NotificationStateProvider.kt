@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.notifications.v2
+package com.vprimex.messenger.notifications.v2
 
 import androidx.annotation.WorkerThread
 import org.signal.core.util.CursorUtil

@@ -1,4 +1,4 @@
-﻿@file:Suppress("UnstableApiUsage")
+@file:Suppress("UnstableApiUsage")
 
 import com.android.build.api.artifact.ArtifactTransformationRequest
 import com.android.build.api.artifact.SingleArtifact

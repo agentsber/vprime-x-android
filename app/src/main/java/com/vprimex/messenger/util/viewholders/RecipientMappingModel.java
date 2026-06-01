@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.viewholders;
+package com.vprimex.messenger.util.viewholders;
 
 import android.content.Context;
 

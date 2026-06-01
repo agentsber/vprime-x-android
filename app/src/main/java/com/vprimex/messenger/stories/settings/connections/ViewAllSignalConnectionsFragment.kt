@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.connections
+package com.vprimex.messenger.stories.settings.connections
 
 import android.os.Bundle
 import android.view.View

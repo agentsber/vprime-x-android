@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobmanager.impl;
+package com.vprimex.messenger.jobmanager.impl;
 
 import androidx.annotation.NonNull;
 

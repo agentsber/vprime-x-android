@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 import com.bumptech.glide.load.DataSource
 import com.bumptech.glide.load.engine.GlideException

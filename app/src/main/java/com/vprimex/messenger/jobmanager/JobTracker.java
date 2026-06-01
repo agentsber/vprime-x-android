@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobmanager;
+package com.vprimex.messenger.jobmanager;
 
 import androidx.annotation.AnyThread;
 import androidx.annotation.NonNull;

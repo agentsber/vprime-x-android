@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 import org.junit.Assert.assertFalse
 import org.junit.Test

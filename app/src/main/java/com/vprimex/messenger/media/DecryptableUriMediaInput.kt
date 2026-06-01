@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.media
+package com.vprimex.messenger.media
 
 import android.content.Context
 import android.net.Uri

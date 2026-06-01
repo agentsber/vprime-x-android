@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testing
+package com.vprimex.messenger.testing
 
 import android.app.Activity
 import android.app.Application

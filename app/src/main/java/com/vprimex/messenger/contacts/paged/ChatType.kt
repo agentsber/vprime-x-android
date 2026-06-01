@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.paged
+package com.vprimex.messenger.contacts.paged
 
 /**
  * Enum class that represents the different chat types a chat folder can have

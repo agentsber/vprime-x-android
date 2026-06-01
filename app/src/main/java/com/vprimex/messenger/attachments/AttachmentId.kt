@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.attachments
+package com.vprimex.messenger.attachments
 
 import android.os.Parcelable
 import com.fasterxml.jackson.annotation.JsonProperty

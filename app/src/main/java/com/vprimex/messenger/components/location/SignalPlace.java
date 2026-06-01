@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.location;
+package com.vprimex.messenger.components.location;
 
 import android.net.Uri;
 import android.text.TextUtils;

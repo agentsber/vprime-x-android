@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.backup.confirm;
+package com.vprimex.messenger.payments.backup.confirm;
 
 import android.app.Activity;
 import android.graphics.drawable.Drawable;

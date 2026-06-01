@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.manage
+package com.vprimex.messenger.components.settings.app.subscription.manage
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

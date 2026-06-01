@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.emoji
+package com.vprimex.messenger.keyboard.emoji
 
 import android.os.Bundle
 import android.view.KeyEvent

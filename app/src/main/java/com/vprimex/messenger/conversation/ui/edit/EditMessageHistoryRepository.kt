@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.edit
+package com.vprimex.messenger.conversation.ui.edit
 
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.schedulers.Schedulers

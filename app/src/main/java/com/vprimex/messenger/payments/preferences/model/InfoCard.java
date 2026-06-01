@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.preferences.model;
+package com.vprimex.messenger.payments.preferences.model;
 
 import androidx.annotation.DrawableRes;
 import androidx.annotation.NonNull;

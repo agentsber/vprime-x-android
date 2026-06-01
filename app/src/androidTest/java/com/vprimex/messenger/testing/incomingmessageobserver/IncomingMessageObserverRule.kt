@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testing.incomingmessageobserver
+package com.vprimex.messenger.testing.incomingmessageobserver
 
 import okio.ByteString.Companion.toByteString
 import org.junit.Assume

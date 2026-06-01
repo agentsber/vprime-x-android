@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messagerequests;
+package com.vprimex.messenger.messagerequests;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.LiveData;

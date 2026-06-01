@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.manage
+package com.vprimex.messenger.components.settings.app.subscription.manage
 
 import com.vprimex.messenger.badges.models.Badge
 import com.vprimex.messenger.database.InAppPaymentTable

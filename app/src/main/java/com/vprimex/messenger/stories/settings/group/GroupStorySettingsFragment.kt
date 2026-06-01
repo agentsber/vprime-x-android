@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.group
+package com.vprimex.messenger.stories.settings.group
 
 import android.view.MenuItem
 import android.view.ViewGroup

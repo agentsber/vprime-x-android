@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.gif
+package com.vprimex.messenger.keyboard.gif
 
 import androidx.annotation.StringRes
 import com.vprimex.messenger.R

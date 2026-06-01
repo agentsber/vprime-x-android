@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messages
+package com.vprimex.messenger.messages
 
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4

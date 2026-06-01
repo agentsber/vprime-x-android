@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.subscribe
+package com.vprimex.messenger.components.settings.app.subscription.subscribe
 
 import android.os.Bundle
 import android.view.LayoutInflater

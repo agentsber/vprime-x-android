@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.phonenumbers
+package com.vprimex.messenger.phonenumbers
 
 import androidx.compose.ui.text.AnnotatedString
 import org.junit.Assert

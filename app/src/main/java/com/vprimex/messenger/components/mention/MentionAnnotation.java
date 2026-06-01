@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.mention;
+package com.vprimex.messenger.components.mention;
 
 
 import android.text.Annotation;

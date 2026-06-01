@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.cjkv;
+package com.vprimex.messenger.util.cjkv;
 
 import androidx.annotation.Nullable;
 

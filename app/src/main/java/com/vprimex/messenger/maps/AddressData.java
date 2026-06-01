@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.maps;
+package com.vprimex.messenger.maps;
 
 import android.os.Parcel;
 import android.os.Parcelable;

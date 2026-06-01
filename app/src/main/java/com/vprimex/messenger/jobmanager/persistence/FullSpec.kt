@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobmanager.persistence
+package com.vprimex.messenger.jobmanager.persistence
 
 data class FullSpec(
   val jobSpec: JobSpec,

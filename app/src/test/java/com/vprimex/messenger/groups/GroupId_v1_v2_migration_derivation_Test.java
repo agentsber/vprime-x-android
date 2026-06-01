@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups;
+package com.vprimex.messenger.groups;
 
 import org.junit.Before;
 import org.junit.Test;

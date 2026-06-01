@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.backup
+package com.vprimex.messenger.backup
 
 import org.greenrobot.eventbus.EventBus
 import org.signal.core.util.logging.Log

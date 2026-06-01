@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate.paypal
+package com.vprimex.messenger.components.settings.app.subscription.donate.paypal
 
 import com.vprimex.messenger.R
 import com.vprimex.messenger.util.adapter.mapping.LayoutFactory

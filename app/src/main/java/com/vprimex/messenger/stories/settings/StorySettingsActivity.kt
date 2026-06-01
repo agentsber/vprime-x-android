@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings
+package com.vprimex.messenger.stories.settings
 
 import android.content.Context
 import android.content.Intent

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.backup;
+package com.vprimex.messenger.payments.backup;
 
 public enum RecoveryPhraseStates {
   FROM_PAYMENTS_MENU_WITH_MNEMONIC_CONFIRMED,

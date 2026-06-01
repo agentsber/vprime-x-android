@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 import androidx.core.os.LocaleListCompat
 import com.vprimex.messenger.keyvalue.SignalStore

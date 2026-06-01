@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.v2
+package com.vprimex.messenger.groups.v2
 
 import android.content.Context
 import androidx.core.util.Consumer

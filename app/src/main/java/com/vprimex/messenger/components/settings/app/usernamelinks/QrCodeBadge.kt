@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.usernamelinks
+package com.vprimex.messenger.components.settings.app.usernamelinks
 
 import android.content.res.Configuration
 import androidx.compose.animation.animateColorAsState

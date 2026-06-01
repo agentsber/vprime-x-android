@@ -1,4 +1,4 @@
-﻿package org.signal.benchmark.setup
+package org.signal.benchmark.setup
 
 import com.vprimex.messenger.attachments.Cdn
 import com.vprimex.messenger.attachments.PointerAttachment

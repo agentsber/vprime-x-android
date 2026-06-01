@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.recipients.ui.sharablegrouplink.qr;
+package com.vprimex.messenger.recipients.ui.sharablegrouplink.qr;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.LiveData;

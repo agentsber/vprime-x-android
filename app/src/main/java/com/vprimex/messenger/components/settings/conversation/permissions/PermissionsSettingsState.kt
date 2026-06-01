@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation.permissions
+package com.vprimex.messenger.components.settings.conversation.permissions
 
 data class PermissionsSettingsState(
   val selfCanEditSettings: Boolean = false,

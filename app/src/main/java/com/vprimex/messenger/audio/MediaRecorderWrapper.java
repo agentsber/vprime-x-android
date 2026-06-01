@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.audio;
+package com.vprimex.messenger.audio;
 
 import android.media.MediaRecorder;
 import android.os.Build;

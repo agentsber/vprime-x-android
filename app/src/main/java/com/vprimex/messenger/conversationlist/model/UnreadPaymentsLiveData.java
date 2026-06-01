@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversationlist.model;
+package com.vprimex.messenger.conversationlist.model;
 
 import androidx.annotation.Nullable;
 import androidx.annotation.WorkerThread;

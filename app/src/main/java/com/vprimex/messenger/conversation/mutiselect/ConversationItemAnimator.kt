@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.mutiselect
+package com.vprimex.messenger.conversation.mutiselect
 
 import android.animation.Animator
 import android.animation.AnimatorSet

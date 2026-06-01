@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.menu
+package com.vprimex.messenger.components.menu
 
 import androidx.annotation.ColorRes
 import androidx.annotation.DrawableRes

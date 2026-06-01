@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.custom
+package com.vprimex.messenger.stories.settings.custom
 
 import io.reactivex.rxjava3.core.Completable
 import io.reactivex.rxjava3.core.Single

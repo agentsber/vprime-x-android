@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.preferences.addmoney;
+package com.vprimex.messenger.payments.preferences.addmoney;
 
 import android.content.ClipData;
 import android.content.ClipboardManager;

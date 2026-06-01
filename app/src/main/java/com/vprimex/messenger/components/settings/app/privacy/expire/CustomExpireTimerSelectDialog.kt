@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.privacy.expire
+package com.vprimex.messenger.components.settings.app.privacy.expire
 
 import android.app.Dialog
 import android.os.Bundle

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation
+package com.vprimex.messenger.components.settings.conversation
 
 import android.view.View
 import android.view.ViewGroup

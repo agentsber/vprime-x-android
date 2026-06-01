@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.info
+package com.vprimex.messenger.stories.viewer.info
 
 import android.view.View
 import android.widget.TextView

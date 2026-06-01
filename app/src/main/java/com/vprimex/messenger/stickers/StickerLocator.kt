@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stickers
+package com.vprimex.messenger.stickers
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

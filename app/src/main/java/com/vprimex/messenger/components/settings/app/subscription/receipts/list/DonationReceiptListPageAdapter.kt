@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.receipts.list
+package com.vprimex.messenger.components.settings.app.subscription.receipts.list
 
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter

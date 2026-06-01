@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation
+package com.vprimex.messenger.components.settings.conversation
 
 import android.text.format.DateFormat
 import androidx.compose.foundation.clickable

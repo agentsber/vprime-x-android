@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.animation;
+package com.vprimex.messenger.animation;
 
 import android.graphics.Point;
 import android.view.View;

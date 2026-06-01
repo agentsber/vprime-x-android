@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.v2.groups
+package com.vprimex.messenger.conversation.v2.groups
 
 import com.vprimex.messenger.groups.GroupId
 import com.vprimex.messenger.recipients.Recipient

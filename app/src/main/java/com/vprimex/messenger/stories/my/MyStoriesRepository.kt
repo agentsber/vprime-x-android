@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.my
+package com.vprimex.messenger.stories.my
 
 import android.content.Context
 import io.reactivex.rxjava3.core.Completable

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.clicklisteners
+package com.vprimex.messenger.conversation.clicklisteners
 
 import android.os.Bundle
 import androidx.compose.foundation.Image

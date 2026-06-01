@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.text
+package com.vprimex.messenger.mediasend.v2.text
 
 import androidx.annotation.DrawableRes
 import com.vprimex.messenger.R

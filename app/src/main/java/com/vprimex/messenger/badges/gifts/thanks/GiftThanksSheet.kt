@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.gifts.thanks
+package com.vprimex.messenger.badges.gifts.thanks
 
 import android.os.Bundle
 import androidx.fragment.app.FragmentManager

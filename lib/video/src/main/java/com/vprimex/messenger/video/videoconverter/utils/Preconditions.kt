@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.video.videoconverter.utils
+package com.vprimex.messenger.video.videoconverter.utils
 
 object Preconditions {
   @JvmStatic

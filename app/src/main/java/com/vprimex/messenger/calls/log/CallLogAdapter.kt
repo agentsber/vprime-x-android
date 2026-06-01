@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.calls.log
+package com.vprimex.messenger.calls.log
 
 import android.content.res.ColorStateList
 import android.text.style.TextAppearanceSpan

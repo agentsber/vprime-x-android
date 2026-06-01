@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util;
+package com.vprimex.messenger.util;
 
 import android.app.usage.UsageEvents;
 import android.app.usage.UsageStatsManager;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.verify
+package com.vprimex.messenger.verify
 
 import org.signal.core.util.logging.Log
 import org.signal.libsignal.net.KeyTransparency.CheckMode

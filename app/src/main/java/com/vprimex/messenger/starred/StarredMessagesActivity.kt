@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.starred
+package com.vprimex.messenger.starred
 
 import android.annotation.SuppressLint
 import android.content.Context

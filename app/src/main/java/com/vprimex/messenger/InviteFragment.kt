@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger
+package com.vprimex.messenger
 
 import android.content.Intent
 import android.widget.Toast

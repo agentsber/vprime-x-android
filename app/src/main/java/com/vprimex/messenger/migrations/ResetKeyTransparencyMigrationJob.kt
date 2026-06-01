@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.migrations
+package com.vprimex.messenger.migrations
 
 import com.vprimex.messenger.database.SignalDatabase
 import com.vprimex.messenger.jobmanager.Job

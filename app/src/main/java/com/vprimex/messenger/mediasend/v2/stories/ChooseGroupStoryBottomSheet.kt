@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.stories
+package com.vprimex.messenger.mediasend.v2.stories
 
 import android.animation.AnimatorSet
 import android.animation.ObjectAnimator

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.preferences.viewholder;
+package com.vprimex.messenger.payments.preferences.viewholder;
 
 import android.text.SpannableString;
 import android.text.Spanned;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2
+package com.vprimex.messenger.mediasend.v2
 
 import android.os.Bundle
 import org.signal.core.util.getParcelableArrayListCompat

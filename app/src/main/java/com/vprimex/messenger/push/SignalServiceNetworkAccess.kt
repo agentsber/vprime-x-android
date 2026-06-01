@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.push
+package com.vprimex.messenger.push
 
 import android.content.Context
 import android.net.ConnectivityManager

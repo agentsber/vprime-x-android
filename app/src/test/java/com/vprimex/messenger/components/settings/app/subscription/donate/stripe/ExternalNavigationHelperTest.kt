@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate.stripe
+package com.vprimex.messenger.components.settings.app.subscription.donate.stripe
 
 import android.app.Application
 import android.content.ComponentName

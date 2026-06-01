@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service.webrtc;
+package com.vprimex.messenger.service.webrtc;
 
 import android.util.LongSparseArray;
 

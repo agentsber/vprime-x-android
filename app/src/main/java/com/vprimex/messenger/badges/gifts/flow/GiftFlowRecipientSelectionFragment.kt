@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.gifts.flow
+package com.vprimex.messenger.badges.gifts.flow
 
 import android.graphics.Color
 import android.os.Bundle

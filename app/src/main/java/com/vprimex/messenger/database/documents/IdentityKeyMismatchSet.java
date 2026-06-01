@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.documents;
+package com.vprimex.messenger.database.documents;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;

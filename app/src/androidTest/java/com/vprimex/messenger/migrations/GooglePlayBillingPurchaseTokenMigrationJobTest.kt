@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.migrations
+package com.vprimex.messenger.migrations
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import assertk.assertThat

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobmanager;
+package com.vprimex.messenger.jobmanager;
 
 import android.os.Handler;
 import android.os.HandlerThread;

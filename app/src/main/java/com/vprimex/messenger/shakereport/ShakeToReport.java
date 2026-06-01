@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.shakereport;
+package com.vprimex.messenger.shakereport;
 
 import android.app.Application;
 import android.widget.TextView;

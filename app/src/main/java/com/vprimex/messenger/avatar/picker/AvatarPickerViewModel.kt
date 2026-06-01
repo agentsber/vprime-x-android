@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.avatar.picker
+package com.vprimex.messenger.avatar.picker
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

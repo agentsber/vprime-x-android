@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model
+package com.vprimex.messenger.database.model
 
 /**
  * Details related to the current avatar profile image file that would be returned via [com.vprimex.messenger.profiles.AvatarHelper.getAvatarFile]

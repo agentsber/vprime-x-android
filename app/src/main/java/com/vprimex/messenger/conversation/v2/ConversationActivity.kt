@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.v2
+package com.vprimex.messenger.conversation.v2
 
 import android.content.Intent
 import android.content.res.Configuration

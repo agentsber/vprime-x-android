@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.providers;
+package com.vprimex.messenger.providers;
 
 import android.content.ContentValues;
 import android.database.Cursor;

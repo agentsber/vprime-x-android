@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.crypto.storage;
+package com.vprimex.messenger.crypto.storage;
 
 import androidx.annotation.NonNull;
 

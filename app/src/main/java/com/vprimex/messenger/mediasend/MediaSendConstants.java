@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend;
+package com.vprimex.messenger.mediasend;
 
 public class MediaSendConstants {
   public static final int MAX_PUSH = 32;

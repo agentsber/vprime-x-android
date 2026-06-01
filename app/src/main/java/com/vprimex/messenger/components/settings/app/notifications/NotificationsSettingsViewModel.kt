@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.notifications
+package com.vprimex.messenger.components.settings.app.notifications
 
 import android.content.SharedPreferences
 import android.net.Uri

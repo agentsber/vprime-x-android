@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.mutiselect.forward
+package com.vprimex.messenger.conversation.mutiselect.forward
 
 import android.content.Context
 import android.content.Intent

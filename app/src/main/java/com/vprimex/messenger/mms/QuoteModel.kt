@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mms
+package com.vprimex.messenger.mms
 
 import com.vprimex.messenger.attachments.Attachment
 import com.vprimex.messenger.database.model.Mention

@@ -1,4 +1,4 @@
-﻿package org.signal.benchmark.setup
+package org.signal.benchmark.setup
 
 import com.vprimex.messenger.jobmanager.Job
 import com.vprimex.messenger.jobs.AccountConsistencyWorkerJob

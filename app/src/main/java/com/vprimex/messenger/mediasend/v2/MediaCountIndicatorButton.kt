@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2
+package com.vprimex.messenger.mediasend.v2
 
 import android.content.Context
 import android.content.res.ColorStateList

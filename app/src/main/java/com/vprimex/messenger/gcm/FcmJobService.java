@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.gcm;
+package com.vprimex.messenger.gcm;
 
 import android.app.job.JobInfo;
 import android.app.job.JobParameters;

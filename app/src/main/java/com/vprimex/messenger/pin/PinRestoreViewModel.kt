@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.pin
+package com.vprimex.messenger.pin
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

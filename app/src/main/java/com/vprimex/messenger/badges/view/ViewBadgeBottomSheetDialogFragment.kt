@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.view
+package com.vprimex.messenger.badges.view
 
 import android.graphics.Paint
 import android.graphics.Rect

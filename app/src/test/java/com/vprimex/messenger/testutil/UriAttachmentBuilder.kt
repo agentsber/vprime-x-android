@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testutil
+package com.vprimex.messenger.testutil
 
 import android.net.Uri
 import org.signal.blurhash.BlurHash

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.webrtc.locks;
+package com.vprimex.messenger.webrtc.locks;
 
 import android.os.PowerManager;
 

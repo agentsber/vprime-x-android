@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.revealable;
+package com.vprimex.messenger.revealable;
 
 import android.app.Application;
 import android.content.BroadcastReceiver;

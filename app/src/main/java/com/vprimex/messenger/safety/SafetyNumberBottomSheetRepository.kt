@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.safety
+package com.vprimex.messenger.safety
 
 import io.reactivex.rxjava3.core.BackpressureStrategy
 import io.reactivex.rxjava3.core.Completable

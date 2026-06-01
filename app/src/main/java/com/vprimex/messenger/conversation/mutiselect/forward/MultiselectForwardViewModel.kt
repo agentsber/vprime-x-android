@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.mutiselect.forward
+package com.vprimex.messenger.conversation.mutiselect.forward
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

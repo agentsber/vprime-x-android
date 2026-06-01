@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database
+package com.vprimex.messenger.database
 
 import okio.ByteString.Companion.toByteString
 import org.signal.core.models.ServiceId

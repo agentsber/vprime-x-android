@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs
+package com.vprimex.messenger.jobs
 
 import org.signal.core.util.logging.Log
 import org.signal.libsignal.net.KeyTransparency.CheckMode

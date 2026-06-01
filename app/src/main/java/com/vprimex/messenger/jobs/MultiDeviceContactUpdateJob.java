@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs;
+package com.vprimex.messenger.jobs;
 
 import android.Manifest;
 import android.content.res.AssetFileDescriptor;

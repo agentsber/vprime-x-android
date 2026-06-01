@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation
+package com.vprimex.messenger.components.settings.conversation
 
 import com.vprimex.messenger.util.DynamicNoActionBarTheme
 import com.vprimex.messenger.util.DynamicTheme

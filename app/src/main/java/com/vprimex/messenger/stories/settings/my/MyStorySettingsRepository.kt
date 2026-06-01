@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.my
+package com.vprimex.messenger.stories.settings.my
 
 import androidx.annotation.WorkerThread
 import io.reactivex.rxjava3.core.Completable

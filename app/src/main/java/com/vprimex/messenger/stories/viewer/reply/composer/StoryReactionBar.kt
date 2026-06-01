@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.reply.composer
+package com.vprimex.messenger.stories.viewer.reply.composer
 
 import android.animation.AnimatorSet
 import android.animation.ObjectAnimator

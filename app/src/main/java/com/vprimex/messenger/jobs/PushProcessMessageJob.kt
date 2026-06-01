@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs
+package com.vprimex.messenger.jobs
 
 import okio.ByteString
 import okio.ByteString.Companion.toByteString

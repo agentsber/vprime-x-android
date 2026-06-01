@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.ui.chooseadmin;
+package com.vprimex.messenger.groups.ui.chooseadmin;
 
 import androidx.annotation.NonNull;
 import androidx.core.util.Consumer;

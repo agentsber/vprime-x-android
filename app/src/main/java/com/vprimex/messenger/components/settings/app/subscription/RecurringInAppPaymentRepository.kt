@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription
+package com.vprimex.messenger.components.settings.app.subscription
 
 import androidx.annotation.CheckResult
 import androidx.annotation.WorkerThread

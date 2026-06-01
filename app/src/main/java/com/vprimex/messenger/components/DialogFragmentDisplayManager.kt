@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components
+package com.vprimex.messenger.components
 
 import androidx.fragment.app.DialogFragment
 import androidx.fragment.app.FragmentManager

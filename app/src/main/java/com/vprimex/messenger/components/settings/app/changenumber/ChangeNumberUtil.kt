@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.changenumber
+package com.vprimex.messenger.components.settings.app.changenumber
 
 import androidx.fragment.app.Fragment
 import com.vprimex.messenger.components.settings.app.AppSettingsActivity

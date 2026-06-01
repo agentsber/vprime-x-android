@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversationlist.chatfilter
+package com.vprimex.messenger.conversationlist.chatfilter
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

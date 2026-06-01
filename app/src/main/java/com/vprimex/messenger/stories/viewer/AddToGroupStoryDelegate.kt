@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer
+package com.vprimex.messenger.stories.viewer
 
 import android.content.Intent
 import android.widget.Toast

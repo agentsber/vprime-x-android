@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.custom
+package com.vprimex.messenger.stories.settings.custom
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.padding

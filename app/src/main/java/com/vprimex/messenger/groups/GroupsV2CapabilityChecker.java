@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups;
+package com.vprimex.messenger.groups;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.WorkerThread;

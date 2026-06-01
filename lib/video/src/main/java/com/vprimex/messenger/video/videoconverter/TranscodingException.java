@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.video.videoconverter;
+package com.vprimex.messenger.video.videoconverter;
 
 final class TranscodingException extends Exception {
 

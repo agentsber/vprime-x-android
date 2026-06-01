@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.longmessage;
+package com.vprimex.messenger.longmessage;
 
 import android.graphics.PorterDuff;
 import android.os.Bundle;

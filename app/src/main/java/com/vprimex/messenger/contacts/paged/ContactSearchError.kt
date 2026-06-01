@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.paged
+package com.vprimex.messenger.contacts.paged
 
 enum class ContactSearchError {
   CONTACT_NOT_SELECTABLE,

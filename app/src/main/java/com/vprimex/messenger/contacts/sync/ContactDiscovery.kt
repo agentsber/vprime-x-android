@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.sync
+package com.vprimex.messenger.contacts.sync
 
 import android.Manifest
 import android.content.Context

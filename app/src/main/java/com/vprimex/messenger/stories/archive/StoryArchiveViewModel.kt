@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.archive
+package com.vprimex.messenger.stories.archive
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

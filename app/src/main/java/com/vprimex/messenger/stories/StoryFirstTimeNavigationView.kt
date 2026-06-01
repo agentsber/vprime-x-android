@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories
+package com.vprimex.messenger.stories
 
 import android.animation.Animator
 import android.animation.AnimatorListenerAdapter

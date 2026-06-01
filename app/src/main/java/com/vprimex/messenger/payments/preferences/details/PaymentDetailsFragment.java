@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.preferences.details;
+package com.vprimex.messenger.payments.preferences.details;
 
 import android.content.Context;
 import android.os.Bundle;

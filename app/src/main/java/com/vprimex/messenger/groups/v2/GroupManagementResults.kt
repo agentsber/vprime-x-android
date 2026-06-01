@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.v2
+package com.vprimex.messenger.groups.v2
 
 import com.vprimex.messenger.groups.ui.GroupChangeFailureReason
 import com.vprimex.messenger.recipients.Recipient

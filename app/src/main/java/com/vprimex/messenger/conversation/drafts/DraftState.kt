@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.drafts
+package com.vprimex.messenger.conversation.drafts
 
 import com.vprimex.messenger.database.DraftTable
 import com.vprimex.messenger.database.DraftTable.Drafts

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.reactions.any;
+package com.vprimex.messenger.reactions.any;
 
 import android.app.Dialog;
 import android.content.Context;

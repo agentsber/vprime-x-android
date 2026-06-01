@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.avatars;
+package com.vprimex.messenger.contacts.avatars;
 
 
 import android.content.Context;

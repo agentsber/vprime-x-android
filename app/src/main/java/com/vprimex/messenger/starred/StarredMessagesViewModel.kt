@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.starred
+package com.vprimex.messenger.starred
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

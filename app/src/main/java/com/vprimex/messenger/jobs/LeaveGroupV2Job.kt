@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs
+package com.vprimex.messenger.jobs
 
 import com.vprimex.messenger.dependencies.AppDependencies
 import com.vprimex.messenger.groups.GroupId

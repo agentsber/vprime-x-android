@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.livedata;
+package com.vprimex.messenger.util.livedata;
 
 import android.os.Handler;
 import android.os.Looper;

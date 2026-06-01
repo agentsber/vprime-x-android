@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.verify
+package com.vprimex.messenger.verify
 
 import android.os.Bundle
 import androidx.compose.foundation.layout.Column

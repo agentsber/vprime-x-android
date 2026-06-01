@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.stories
+package com.vprimex.messenger.mediasend.v2.stories
 
 import android.content.Context
 import android.content.Intent

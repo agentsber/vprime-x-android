@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.lock.v2
+package com.vprimex.messenger.lock.v2
 
 import android.view.animation.Animation
 import android.view.animation.TranslateAnimation

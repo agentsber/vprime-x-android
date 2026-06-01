@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation.permissions
+package com.vprimex.messenger.components.settings.conversation.permissions
 
 import com.vprimex.messenger.groups.ui.GroupChangeFailureReason
 

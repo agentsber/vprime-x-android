@@ -1,4 +1,4 @@
-﻿package org.thoughtcrime.benchmark
+package org.thoughtcrime.benchmark
 
 import androidx.annotation.RequiresApi
 import androidx.benchmark.macro.BaselineProfileMode

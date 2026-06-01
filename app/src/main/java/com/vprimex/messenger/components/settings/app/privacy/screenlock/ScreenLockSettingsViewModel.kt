@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.privacy.screenlock
+package com.vprimex.messenger.components.settings.app.privacy.screenlock
 
 import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.flow.MutableStateFlow

@@ -1,4 +1,4 @@
-﻿@file:JvmName("BodyRangeUtil")
+@file:JvmName("BodyRangeUtil")
 
 package com.vprimex.messenger.database
 

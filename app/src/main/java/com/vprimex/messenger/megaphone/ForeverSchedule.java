@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.megaphone;
+package com.vprimex.messenger.megaphone;
 
 final class ForeverSchedule implements MegaphoneSchedule {
 

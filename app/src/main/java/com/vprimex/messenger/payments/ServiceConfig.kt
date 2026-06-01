@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments
+package com.vprimex.messenger.payments
 
 import org.signal.core.util.Hex
 

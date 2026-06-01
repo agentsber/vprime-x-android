@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.registration.v2
+package com.vprimex.messenger.registration.v2
 
 import io.mockk.every
 import io.mockk.mockk

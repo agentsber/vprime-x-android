@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.wallpaper;
+package com.vprimex.messenger.wallpaper;
 
 import android.graphics.drawable.ColorDrawable;
 import android.os.Parcel;

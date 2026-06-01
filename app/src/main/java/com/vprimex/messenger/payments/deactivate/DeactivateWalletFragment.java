@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.deactivate;
+package com.vprimex.messenger.payments.deactivate;
 
 import android.app.AlertDialog;
 import android.os.Bundle;

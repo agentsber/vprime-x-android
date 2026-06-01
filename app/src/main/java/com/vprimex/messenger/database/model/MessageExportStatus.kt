@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model
+package com.vprimex.messenger.database.model
 
 import org.signal.core.util.DatabaseId
 import org.signal.core.util.IntSerializer

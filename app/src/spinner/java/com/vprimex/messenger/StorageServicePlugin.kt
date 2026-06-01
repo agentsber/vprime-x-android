@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger
+package com.vprimex.messenger
 
 import org.signal.core.util.Base64
 import org.signal.network.service.StorageServiceService

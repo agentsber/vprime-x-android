@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messages
+package com.vprimex.messenger.messages
 
 import com.squareup.wire.Message
 import okio.ByteString

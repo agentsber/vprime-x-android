@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.camerax
+package com.vprimex.messenger.mediasend.camerax
 
 import android.os.Build
 import org.signal.core.util.asListContains

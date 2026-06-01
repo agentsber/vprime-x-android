@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app
+package com.vprimex.messenger.components.settings.app
 
 import androidx.compose.runtime.Immutable
 import com.vprimex.messenger.keyvalue.SignalStore

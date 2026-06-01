@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.my
+package com.vprimex.messenger.stories.settings.my
 
 data class MyStorySettingsState(
   val myStoryPrivacyState: MyStoryPrivacyState = MyStoryPrivacyState(),

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.privacy.screenlock
+package com.vprimex.messenger.components.settings.app.privacy.screenlock
 
 /**
  * Information about the screen lock state. Used in [ScreenLockSettingsViewModel].

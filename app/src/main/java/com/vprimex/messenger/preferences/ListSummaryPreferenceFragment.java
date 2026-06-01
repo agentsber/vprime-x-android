@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.preferences;
+package com.vprimex.messenger.preferences;
 
 
 import androidx.preference.ListPreference;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.verify
+package com.vprimex.messenger.verify
 
 import android.Manifest
 import android.os.Bundle

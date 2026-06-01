@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard
+package com.vprimex.messenger.keyboard
 
 import android.content.Context
 import android.graphics.drawable.Drawable

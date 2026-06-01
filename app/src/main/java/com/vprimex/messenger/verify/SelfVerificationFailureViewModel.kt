@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.verify
+package com.vprimex.messenger.verify
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

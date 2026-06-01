@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.backup.phrase;
+package com.vprimex.messenger.payments.backup.phrase;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.ViewModel;

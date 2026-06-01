@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate
+package com.vprimex.messenger.components.settings.app.subscription.donate
 
 import org.signal.donations.InAppPaymentType
 import com.vprimex.messenger.database.InAppPaymentTable

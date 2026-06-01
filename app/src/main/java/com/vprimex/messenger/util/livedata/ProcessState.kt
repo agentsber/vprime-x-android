@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.livedata
+package com.vprimex.messenger.util.livedata
 
 /**
  * Provide a general representation of a discrete process. States are idle,

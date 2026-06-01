@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.v2.processing
+package com.vprimex.messenger.groups.v2.processing
 
 import org.signal.storageservice.storage.protos.groups.local.DecryptedGroup
 import org.whispersystems.signalservice.api.groupsv2.DecryptedGroupChangeLog

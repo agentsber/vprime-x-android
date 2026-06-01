@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.webrtc;
+package com.vprimex.messenger.components.webrtc;
 
 import androidx.annotation.DrawableRes;
 import androidx.annotation.StringRes;

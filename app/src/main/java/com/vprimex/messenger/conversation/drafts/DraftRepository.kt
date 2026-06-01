@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.drafts
+package com.vprimex.messenger.conversation.drafts
 
 import android.content.Context
 import android.net.Uri

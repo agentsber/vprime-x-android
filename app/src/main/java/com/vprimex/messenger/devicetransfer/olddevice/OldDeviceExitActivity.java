@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.devicetransfer.olddevice;
+package com.vprimex.messenger.devicetransfer.olddevice;
 
 import android.app.Activity;
 import android.content.Intent;

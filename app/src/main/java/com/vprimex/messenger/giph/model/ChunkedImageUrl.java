@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.giph.model;
+package com.vprimex.messenger.giph.model;
 
 
 import androidx.annotation.NonNull;

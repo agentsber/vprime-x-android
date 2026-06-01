@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.v2.processing
+package com.vprimex.messenger.groups.v2.processing
 
 import org.signal.libsignal.zkgroup.groupsend.GroupSendEndorsementsResponse
 import org.signal.storageservice.storage.protos.groups.local.DecryptedGroup

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.sms
+package com.vprimex.messenger.sms
 
 import androidx.annotation.WorkerThread
 import org.signal.core.models.media.TransformProperties

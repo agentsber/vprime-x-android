@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.edit.pnp
+package com.vprimex.messenger.profiles.edit.pnp
 
 enum class WhoCanFindMeByPhoneNumberState {
   EVERYONE,

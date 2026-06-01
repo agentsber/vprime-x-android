@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.receipts.list
+package com.vprimex.messenger.components.settings.app.subscription.receipts.list
 
 import android.os.Bundle
 import android.view.View

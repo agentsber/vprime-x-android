@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue
+package com.vprimex.messenger.keyvalue
 
 class ImageEditorValues internal constructor(store: KeyValueStore) : SignalStoreValues(store) {
 

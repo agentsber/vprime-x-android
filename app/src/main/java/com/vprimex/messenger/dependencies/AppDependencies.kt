@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.dependencies
+package com.vprimex.messenger.dependencies
 
 import android.annotation.SuppressLint
 import android.app.Application

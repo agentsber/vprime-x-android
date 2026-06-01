@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.manage
+package com.vprimex.messenger.components.settings.app.subscription.manage
 
 import android.os.Bundle
 import android.text.SpannableStringBuilder

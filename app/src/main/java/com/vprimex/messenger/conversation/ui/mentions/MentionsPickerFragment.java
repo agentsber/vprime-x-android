@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.mentions;
+package com.vprimex.messenger.conversation.ui.mentions;
 
 import android.os.Bundle;
 import android.os.Handler;

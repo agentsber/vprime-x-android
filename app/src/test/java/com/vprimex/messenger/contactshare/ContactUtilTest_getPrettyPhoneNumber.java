@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contactshare;
+package com.vprimex.messenger.contactshare;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

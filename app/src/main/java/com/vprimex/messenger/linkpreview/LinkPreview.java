@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.linkpreview;
+package com.vprimex.messenger.linkpreview;
 
 import android.os.Parcel;
 import android.os.Parcelable;

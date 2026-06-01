@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.dualsim;
+package com.vprimex.messenger.util.dualsim;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.reply
+package com.vprimex.messenger.stories.viewer.reply
 
 import android.animation.FloatEvaluator
 import android.content.Context

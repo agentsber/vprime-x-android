@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.dependencies
+package com.vprimex.messenger.dependencies
 
 import io.mockk.mockk
 import org.signal.core.util.billing.BillingApi

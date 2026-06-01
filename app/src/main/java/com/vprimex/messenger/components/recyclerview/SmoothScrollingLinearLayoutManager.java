@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.recyclerview;
+package com.vprimex.messenger.components.recyclerview;
 
 import android.content.Context;
 import android.util.DisplayMetrics;

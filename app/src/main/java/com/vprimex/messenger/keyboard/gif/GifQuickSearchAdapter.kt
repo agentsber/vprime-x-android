@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.gif
+package com.vprimex.messenger.keyboard.gif
 
 import android.view.View
 import android.widget.ImageView

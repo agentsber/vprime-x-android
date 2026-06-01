@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.qr;
+package com.vprimex.messenger.qr;
 
 import android.graphics.Bitmap;
 import android.graphics.Color;

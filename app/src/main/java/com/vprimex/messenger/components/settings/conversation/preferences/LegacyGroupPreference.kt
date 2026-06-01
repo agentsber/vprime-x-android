@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation.preferences
+package com.vprimex.messenger.components.settings.conversation.preferences
 
 import android.view.View
 import androidx.core.content.ContextCompat

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messages
+package com.vprimex.messenger.messages
 
 import org.signal.core.util.Base64
 import com.vprimex.messenger.database.model.databaseprotos.StoryTextPost

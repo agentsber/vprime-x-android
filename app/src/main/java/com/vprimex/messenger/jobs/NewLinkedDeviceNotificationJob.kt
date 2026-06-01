@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs
+package com.vprimex.messenger.jobs
 
 import android.app.PendingIntent
 import androidx.core.app.NotificationCompat

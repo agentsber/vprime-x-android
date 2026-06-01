@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.review
+package com.vprimex.messenger.mediasend.v2.review
 
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.DiffUtil

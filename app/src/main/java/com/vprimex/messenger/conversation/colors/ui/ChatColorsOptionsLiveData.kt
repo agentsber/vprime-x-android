@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.colors.ui
+package com.vprimex.messenger.conversation.colors.ui
 
 import androidx.lifecycle.LiveData
 import org.signal.core.util.concurrent.SignalExecutors

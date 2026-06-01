@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.audio
+package com.vprimex.messenger.audio
 
 interface AudioRecordingHandler {
   fun onRecordPressed()

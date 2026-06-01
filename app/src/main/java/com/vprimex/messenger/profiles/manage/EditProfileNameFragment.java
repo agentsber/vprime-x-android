@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.manage;
+package com.vprimex.messenger.profiles.manage;
 
 import android.os.Bundle;
 import android.text.Editable;

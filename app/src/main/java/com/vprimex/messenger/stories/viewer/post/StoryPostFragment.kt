@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.post
+package com.vprimex.messenger.stories.viewer.post
 
 import android.app.Activity
 import android.os.Bundle

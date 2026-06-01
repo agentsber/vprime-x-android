@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.select
+package com.vprimex.messenger.stories.settings.select
 
 import com.vprimex.messenger.database.model.DistributionListId
 import com.vprimex.messenger.database.model.DistributionListRecord

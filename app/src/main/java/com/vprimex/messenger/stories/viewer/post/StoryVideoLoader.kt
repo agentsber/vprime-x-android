@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.post
+package com.vprimex.messenger.stories.viewer.post
 
 import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner

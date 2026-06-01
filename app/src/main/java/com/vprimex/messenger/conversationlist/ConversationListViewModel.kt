@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversationlist
+package com.vprimex.messenger.conversationlist
 
 import android.os.Parcelable
 import androidx.lifecycle.SavedStateHandle

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.first
+package com.vprimex.messenger.stories.viewer.first
 
 import android.app.Dialog
 import android.graphics.Color

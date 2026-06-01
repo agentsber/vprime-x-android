@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.recipients
+package com.vprimex.messenger.recipients
 
 import android.content.Context
 import androidx.annotation.VisibleForTesting

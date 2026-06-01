@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.video.videoconverter.muxer;
+package com.vprimex.messenger.video.videoconverter.muxer;
 
 import android.util.SparseIntArray;
 

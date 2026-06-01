@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediapreview.caption
+package com.vprimex.messenger.mediapreview.caption
 
 import android.content.Context
 import android.graphics.Typeface

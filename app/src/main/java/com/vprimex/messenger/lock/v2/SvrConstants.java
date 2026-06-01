@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.lock.v2;
+package com.vprimex.messenger.lock.v2;
 
 public final class SvrConstants {
 

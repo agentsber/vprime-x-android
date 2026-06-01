@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue;
+package com.vprimex.messenger.keyvalue;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.StringRes;

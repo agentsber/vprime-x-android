@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.qr;
+package com.vprimex.messenger.components.qr;
 
 import android.content.Context;
 import android.content.res.TypedArray;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.viewpager;
+package com.vprimex.messenger.components.viewpager;
 
 
 import androidx.viewpager.widget.ViewPager;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.backup.v2.ui.verify
+package com.vprimex.messenger.backup.v2.ui.verify
 
 import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.flow.MutableStateFlow

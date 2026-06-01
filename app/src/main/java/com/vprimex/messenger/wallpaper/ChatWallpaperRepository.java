@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.wallpaper;
+package com.vprimex.messenger.wallpaper;
 
 import androidx.annotation.MainThread;
 import androidx.annotation.NonNull;

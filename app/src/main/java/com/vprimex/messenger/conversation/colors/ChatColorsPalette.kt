@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.colors
+package com.vprimex.messenger.conversation.colors
 
 /**
  * Namespaced collection of supported bubble colors and name colors.

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.emoji;
+package com.vprimex.messenger.components.emoji;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

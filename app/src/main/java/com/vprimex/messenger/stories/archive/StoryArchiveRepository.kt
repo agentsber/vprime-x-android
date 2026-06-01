@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.archive
+package com.vprimex.messenger.stories.archive
 
 import com.vprimex.messenger.database.SignalDatabase
 import com.vprimex.messenger.jobs.MultiDeviceDeleteSyncJob

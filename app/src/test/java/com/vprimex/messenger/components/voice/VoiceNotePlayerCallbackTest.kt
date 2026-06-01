@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.voice
+package com.vprimex.messenger.components.voice
 
 import android.app.Application
 import android.content.Context

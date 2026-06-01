@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.reply.tabs
+package com.vprimex.messenger.stories.viewer.reply.tabs
 
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.RecyclerView

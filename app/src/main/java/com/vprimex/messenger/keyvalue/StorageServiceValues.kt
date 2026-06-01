@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue
+package com.vprimex.messenger.keyvalue
 
 import org.signal.core.models.storageservice.StorageKey
 import org.signal.core.util.logging.Log

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.review
+package com.vprimex.messenger.mediasend.v2.review
 
 import android.view.View
 import android.widget.ImageView

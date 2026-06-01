@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.video;
+package com.vprimex.messenger.video;
 
 import android.media.MediaDataSource;
 

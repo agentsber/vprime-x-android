@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.adapter;
+package com.vprimex.messenger.util.adapter;
 
 import android.view.ViewGroup;
 

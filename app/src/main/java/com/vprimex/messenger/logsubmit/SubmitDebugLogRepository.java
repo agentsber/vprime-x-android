@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.logsubmit;
+package com.vprimex.messenger.logsubmit;
 
 import android.app.Application;
 import android.content.Context;

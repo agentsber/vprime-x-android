@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.text;
+package com.vprimex.messenger.util.text;
 
 import android.text.Editable;
 import android.text.TextWatcher;

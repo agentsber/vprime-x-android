@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.devicetransfer;
+package com.vprimex.messenger.devicetransfer;
 
 /**
  * The various steps involved in setting up a transfer connection. Each step has a

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.megaphone;
+package com.vprimex.messenger.megaphone;
 
 import android.content.Intent;
 import android.graphics.drawable.Drawable;

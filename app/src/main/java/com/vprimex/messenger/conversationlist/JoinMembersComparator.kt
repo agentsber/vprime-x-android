@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversationlist
+package com.vprimex.messenger.conversationlist
 
 /**
  * Compares two display names, preferring the one which includes the given [highlightSubstring].

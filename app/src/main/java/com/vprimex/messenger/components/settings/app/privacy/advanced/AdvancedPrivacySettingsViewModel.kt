@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.privacy.advanced
+package com.vprimex.messenger.components.settings.app.privacy.advanced
 
 import android.content.SharedPreferences
 import androidx.lifecycle.ViewModel

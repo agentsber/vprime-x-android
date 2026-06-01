@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model
+package com.vprimex.messenger.database.model
 
 import android.app.Application
 import androidx.test.core.app.ApplicationProvider

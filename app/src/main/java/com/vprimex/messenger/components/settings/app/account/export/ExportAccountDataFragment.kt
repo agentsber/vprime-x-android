@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.account.export
+package com.vprimex.messenger.components.settings.app.account.export
 
 import android.os.Bundle
 import android.view.View

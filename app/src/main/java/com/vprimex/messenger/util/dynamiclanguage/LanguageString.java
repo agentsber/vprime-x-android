@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.dynamiclanguage;
+package com.vprimex.messenger.util.dynamiclanguage;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

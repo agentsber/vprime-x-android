@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.l10n;
+package com.vprimex.messenger.l10n;
 
 import android.app.Application;
 import android.content.res.Resources;

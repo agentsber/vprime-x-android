@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.paged.collections
+package com.vprimex.messenger.contacts.paged.collections
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.logging;
+package com.vprimex.messenger.logging;
 
 import org.signal.core.util.logging.Log;
 import org.signal.libsignal.protocol.logging.SignalProtocolLogger;

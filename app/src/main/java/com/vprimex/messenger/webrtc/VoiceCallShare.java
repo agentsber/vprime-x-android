@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.webrtc;
+package com.vprimex.messenger.webrtc;
 
 import android.app.Activity;
 import android.content.Intent;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service.webrtc.state
+package com.vprimex.messenger.service.webrtc.state
 
 import com.vprimex.messenger.events.CallParticipant
 import com.vprimex.messenger.events.CallParticipantId

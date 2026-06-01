@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.sharing.interstitial;
+package com.vprimex.messenger.sharing.interstitial;
 
 import com.vprimex.messenger.R;
 import com.vprimex.messenger.util.adapter.mapping.MappingAdapter;

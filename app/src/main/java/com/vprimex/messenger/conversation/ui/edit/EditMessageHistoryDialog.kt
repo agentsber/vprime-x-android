@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.edit
+package com.vprimex.messenger.conversation.ui.edit
 
 import android.app.Dialog
 import android.os.Bundle

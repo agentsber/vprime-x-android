@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.ui;
+package com.vprimex.messenger.groups.ui;
 
 import android.annotation.SuppressLint;
 

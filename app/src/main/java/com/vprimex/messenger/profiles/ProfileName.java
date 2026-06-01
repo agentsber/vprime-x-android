@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles;
+package com.vprimex.messenger.profiles;
 
 import android.os.Parcel;
 import android.os.Parcelable;

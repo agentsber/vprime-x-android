@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.video.videoconverter;
+package com.vprimex.messenger.video.videoconverter;
 
 import android.media.MediaCodec;
 import android.media.MediaCodecInfo;

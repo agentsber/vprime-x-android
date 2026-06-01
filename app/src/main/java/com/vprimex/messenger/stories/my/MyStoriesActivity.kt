@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.my
+package com.vprimex.messenger.stories.my
 
 import androidx.fragment.app.Fragment
 import com.vprimex.messenger.components.FragmentWrapperActivity

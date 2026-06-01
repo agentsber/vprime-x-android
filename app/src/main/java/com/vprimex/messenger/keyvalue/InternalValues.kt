@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue
+package com.vprimex.messenger.keyvalue
 
 import org.signal.archive.proto.BackupDebugInfo
 import org.signal.ringrtc.CallManager.DataMode

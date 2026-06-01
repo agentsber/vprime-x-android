@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate.paypal
+package com.vprimex.messenger.components.settings.app.subscription.donate.paypal
 
 import android.app.Application
 import org.junit.Assert.assertEquals

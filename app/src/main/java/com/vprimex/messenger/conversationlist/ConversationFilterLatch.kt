@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversationlist
+package com.vprimex.messenger.conversationlist
 
 /**
  * Small state machine that describes moving and triggering actions

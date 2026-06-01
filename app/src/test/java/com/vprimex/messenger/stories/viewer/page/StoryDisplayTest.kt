@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.page
+package com.vprimex.messenger.stories.viewer.page
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

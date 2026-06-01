@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.search
+package com.vprimex.messenger.search
 
 import com.vprimex.messenger.recipients.RecipientId
 

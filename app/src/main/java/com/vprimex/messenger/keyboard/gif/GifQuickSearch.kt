@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.gif
+package com.vprimex.messenger.keyboard.gif
 
 import com.vprimex.messenger.util.adapter.mapping.MappingModel
 

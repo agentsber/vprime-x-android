@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories
+package com.vprimex.messenger.stories
 
 import android.content.Context
 import android.graphics.drawable.Drawable

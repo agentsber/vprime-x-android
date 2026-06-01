@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.reactions.edit
+package com.vprimex.messenger.reactions.edit
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

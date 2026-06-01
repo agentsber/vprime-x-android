@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.privacy.screenlock
+package com.vprimex.messenger.components.settings.app.privacy.screenlock
 
 import android.app.Dialog
 import android.os.Bundle

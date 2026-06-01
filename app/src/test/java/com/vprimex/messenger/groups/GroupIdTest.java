@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups;
+package com.vprimex.messenger.groups;
 
 import org.junit.Test;
 import org.signal.core.util.Hex;

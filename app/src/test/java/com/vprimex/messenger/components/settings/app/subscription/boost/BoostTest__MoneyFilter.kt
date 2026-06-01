@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.boost
+package com.vprimex.messenger.components.settings.app.subscription.boost
 
 import android.app.Application
 import android.text.SpannableStringBuilder

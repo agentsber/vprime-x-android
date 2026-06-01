@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.self.featured
+package com.vprimex.messenger.badges.self.featured
 
 import android.os.Bundle
 import android.view.View

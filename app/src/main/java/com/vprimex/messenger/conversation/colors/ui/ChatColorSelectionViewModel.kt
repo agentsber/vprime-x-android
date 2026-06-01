@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.colors.ui
+package com.vprimex.messenger.conversation.colors.ui
 
 import androidx.fragment.app.FragmentActivity
 import androidx.lifecycle.LiveData

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.post
+package com.vprimex.messenger.stories.viewer.post
 
 import android.view.LayoutInflater
 import android.view.View

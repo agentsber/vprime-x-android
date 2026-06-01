@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversationlist.chatfilter
+package com.vprimex.messenger.conversationlist.chatfilter
 
 import android.animation.Animator
 import android.animation.ObjectAnimator

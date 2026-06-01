@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.registration.v2;
+package com.vprimex.messenger.registration.v2;
 
 import org.junit.Test;
 import org.signal.core.util.StreamUtil;

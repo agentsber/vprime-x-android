@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.crypto.storage
+package com.vprimex.messenger.crypto.storage
 
 /**
  * Allows storing various metadata around prekey state.

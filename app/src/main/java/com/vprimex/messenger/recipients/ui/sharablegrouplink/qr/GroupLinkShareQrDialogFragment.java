@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.recipients.ui.sharablegrouplink.qr;
+package com.vprimex.messenger.recipients.ui.sharablegrouplink.qr;
 
 import android.content.Intent;
 import android.graphics.Bitmap;

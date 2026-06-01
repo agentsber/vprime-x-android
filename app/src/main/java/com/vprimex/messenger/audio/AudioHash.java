@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.audio;
+package com.vprimex.messenger.audio;
 
 import android.os.Parcel;
 import android.os.Parcelable;

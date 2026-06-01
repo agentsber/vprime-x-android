@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.landing
+package com.vprimex.messenger.stories.landing
 
 import com.vprimex.messenger.conversation.ConversationMessage
 import com.vprimex.messenger.database.model.StoryViewState

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database
+package com.vprimex.messenger.database
 
 import android.content.Context
 import org.signal.core.models.ServiceId

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service.webrtc.state
+package com.vprimex.messenger.service.webrtc.state
 
 import android.content.Intent
 import com.vprimex.messenger.components.sensors.Orientation

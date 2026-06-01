@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.notifications;
+package com.vprimex.messenger.notifications;
 
 import android.annotation.SuppressLint;
 import android.content.BroadcastReceiver;

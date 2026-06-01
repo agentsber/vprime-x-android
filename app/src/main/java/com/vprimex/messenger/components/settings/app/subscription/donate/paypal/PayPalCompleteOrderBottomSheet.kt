@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate.paypal
+package com.vprimex.messenger.components.settings.app.subscription.donate.paypal
 
 import android.content.DialogInterface
 import androidx.core.os.bundleOf

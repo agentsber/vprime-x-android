@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testutil;
+package com.vprimex.messenger.testutil;
 
 import java.util.stream.Collectors;
 import com.google.common.collect.Sets;

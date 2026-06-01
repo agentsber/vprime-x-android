@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.devicetransfer;
+package com.vprimex.messenger.devicetransfer;
 
 import android.content.ActivityNotFoundException;
 import android.content.Intent;

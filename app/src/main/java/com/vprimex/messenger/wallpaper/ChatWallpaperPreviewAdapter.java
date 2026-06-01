@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.wallpaper;
+package com.vprimex.messenger.wallpaper;
 
 import com.vprimex.messenger.R;
 import com.vprimex.messenger.util.adapter.mapping.MappingAdapter;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation
+package com.vprimex.messenger.components.settings.conversation
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

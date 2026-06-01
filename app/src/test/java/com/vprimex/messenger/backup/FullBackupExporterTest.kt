@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.backup
+package com.vprimex.messenger.backup
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

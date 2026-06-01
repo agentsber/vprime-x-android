@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.invites
+package com.vprimex.messenger.invites
 
 import android.content.Context
 import android.content.Intent

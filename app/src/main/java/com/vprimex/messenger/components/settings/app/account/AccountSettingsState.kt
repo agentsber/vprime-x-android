@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.account
+package com.vprimex.messenger.components.settings.app.account
 
 import com.vprimex.messenger.lock.v2.PinKeyboardType
 

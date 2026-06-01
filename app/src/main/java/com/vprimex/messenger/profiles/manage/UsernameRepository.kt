@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.manage
+package com.vprimex.messenger.profiles.manage
 
 import androidx.annotation.WorkerThread
 import io.reactivex.rxjava3.core.Single

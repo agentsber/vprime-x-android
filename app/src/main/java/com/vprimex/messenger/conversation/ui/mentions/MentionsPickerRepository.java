@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.mentions;
+package com.vprimex.messenger.conversation.ui.mentions;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

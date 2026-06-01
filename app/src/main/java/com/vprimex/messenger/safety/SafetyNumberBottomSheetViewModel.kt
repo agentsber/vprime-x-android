@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.safety
+package com.vprimex.messenger.safety
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

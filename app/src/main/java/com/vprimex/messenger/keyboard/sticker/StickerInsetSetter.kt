@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.sticker
+package com.vprimex.messenger.keyboard.sticker
 
 import android.graphics.Rect
 import android.view.View

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.v2.processing
+package com.vprimex.messenger.groups.v2.processing
 
 import assertk.assertThat
 import assertk.assertions.containsOnly

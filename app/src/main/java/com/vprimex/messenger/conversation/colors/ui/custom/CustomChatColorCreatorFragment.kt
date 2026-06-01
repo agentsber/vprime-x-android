@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.colors.ui.custom
+package com.vprimex.messenger.conversation.colors.ui.custom
 
 import android.os.Bundle
 import android.view.View

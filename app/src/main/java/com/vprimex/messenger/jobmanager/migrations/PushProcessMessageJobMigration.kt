@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobmanager.migrations
+package com.vprimex.messenger.jobmanager.migrations
 
 import okio.ByteString.Companion.toByteString
 import org.signal.core.models.ServiceId

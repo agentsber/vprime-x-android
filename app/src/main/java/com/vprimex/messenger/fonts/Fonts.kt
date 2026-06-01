@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.fonts
+package com.vprimex.messenger.fonts
 
 import android.content.Context
 import android.graphics.Typeface

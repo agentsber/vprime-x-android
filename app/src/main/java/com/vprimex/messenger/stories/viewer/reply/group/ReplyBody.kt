@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.reply.group
+package com.vprimex.messenger.stories.viewer.reply.group
 
 import com.vprimex.messenger.conversation.ConversationMessage
 import com.vprimex.messenger.database.model.MessageId

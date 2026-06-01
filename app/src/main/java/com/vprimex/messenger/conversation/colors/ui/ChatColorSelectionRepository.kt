@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.colors.ui
+package com.vprimex.messenger.conversation.colors.ui
 
 import android.content.Context
 import org.signal.core.util.concurrent.SignalExecutors

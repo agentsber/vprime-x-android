@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.self.overview
+package com.vprimex.messenger.badges.self.overview
 
 import android.widget.Toast
 import androidx.fragment.app.viewModels

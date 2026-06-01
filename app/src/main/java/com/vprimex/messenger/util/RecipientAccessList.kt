@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 import org.signal.core.models.ServiceId
 import com.vprimex.messenger.recipients.Recipient

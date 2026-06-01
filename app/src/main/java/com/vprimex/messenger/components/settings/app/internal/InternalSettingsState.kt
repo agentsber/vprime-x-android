@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.internal
+package com.vprimex.messenger.components.settings.app.internal
 
 import org.signal.ringrtc.CallManager
 import com.vprimex.messenger.emoji.EmojiFiles

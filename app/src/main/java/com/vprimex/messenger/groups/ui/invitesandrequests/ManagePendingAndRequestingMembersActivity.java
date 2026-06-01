@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.ui.invitesandrequests;
+package com.vprimex.messenger.groups.ui.invitesandrequests;
 
 import android.content.Context;
 import android.content.Intent;

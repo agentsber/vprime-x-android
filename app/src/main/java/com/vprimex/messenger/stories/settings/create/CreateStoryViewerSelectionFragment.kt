@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.create
+package com.vprimex.messenger.stories.settings.create
 
 import androidx.navigation.fragment.findNavController
 import com.vprimex.messenger.R

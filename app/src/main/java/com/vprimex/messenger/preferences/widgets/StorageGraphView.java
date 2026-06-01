@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.preferences.widgets;
+package com.vprimex.messenger.preferences.widgets;
 
 import android.content.Context;
 import android.graphics.Canvas;

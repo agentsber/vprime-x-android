@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.glide;
+package com.vprimex.messenger.glide;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

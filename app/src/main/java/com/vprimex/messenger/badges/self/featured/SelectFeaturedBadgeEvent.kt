@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.self.featured
+package com.vprimex.messenger.badges.self.featured
 
 enum class SelectFeaturedBadgeEvent {
   NO_BADGE_SELECTED,

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.gifts.flow
+package com.vprimex.messenger.badges.gifts.flow
 
 import io.reactivex.rxjava3.core.Single
 import io.reactivex.rxjava3.schedulers.Schedulers

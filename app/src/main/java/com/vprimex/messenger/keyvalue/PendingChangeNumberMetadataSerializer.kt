@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue
+package com.vprimex.messenger.keyvalue
 
 import org.signal.core.util.ByteSerializer
 import com.vprimex.messenger.database.model.databaseprotos.PendingChangeNumberMetadata

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.spoiler
+package com.vprimex.messenger.components.spoiler
 
 import android.graphics.Bitmap
 import android.graphics.BitmapShader

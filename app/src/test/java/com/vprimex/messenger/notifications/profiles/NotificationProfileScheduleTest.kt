@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.notifications.profiles
+package com.vprimex.messenger.notifications.profiles
 
 import assertk.assertThat
 import assertk.assertions.isEqualTo

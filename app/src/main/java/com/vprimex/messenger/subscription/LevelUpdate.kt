@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.subscription
+package com.vprimex.messenger.subscription
 
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.subjects.BehaviorSubject

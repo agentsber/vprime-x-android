@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.webrtc;
+package com.vprimex.messenger.webrtc;
 
 import android.app.Notification;
 import android.app.PendingIntent;

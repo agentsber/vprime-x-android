@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediapreview.mediarail
+package com.vprimex.messenger.mediapreview.mediarail
 
 import android.graphics.drawable.Drawable
 import android.view.View

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.avatar.photo
+package com.vprimex.messenger.avatar.photo
 
 import android.app.Activity
 import android.content.Context

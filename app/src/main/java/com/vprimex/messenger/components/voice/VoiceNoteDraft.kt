@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.voice
+package com.vprimex.messenger.components.voice
 
 import android.net.Uri
 import com.vprimex.messenger.database.DraftTable

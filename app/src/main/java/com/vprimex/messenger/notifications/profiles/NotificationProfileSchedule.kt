@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.notifications.profiles
+package com.vprimex.messenger.notifications.profiles
 
 import com.vprimex.messenger.util.isBetween
 import com.vprimex.messenger.util.toLocalDateTime

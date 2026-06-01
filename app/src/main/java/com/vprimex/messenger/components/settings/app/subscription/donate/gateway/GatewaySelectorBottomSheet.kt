@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate.gateway
+package com.vprimex.messenger.components.settings.app.subscription.donate.gateway
 
 import android.content.Context
 import androidx.compose.runtime.Composable

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.storage
+package com.vprimex.messenger.storage
 
 import org.signal.core.models.ServiceId
 import org.signal.core.util.SqlUtil

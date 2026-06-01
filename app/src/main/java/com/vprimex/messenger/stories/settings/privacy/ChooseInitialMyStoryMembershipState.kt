@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.privacy
+package com.vprimex.messenger.stories.settings.privacy
 
 import com.vprimex.messenger.recipients.RecipientId
 import com.vprimex.messenger.stories.settings.my.MyStoryPrivacyState

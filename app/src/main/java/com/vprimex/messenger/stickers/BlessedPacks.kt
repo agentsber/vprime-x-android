@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stickers
+package com.vprimex.messenger.stickers
 
 import com.fasterxml.jackson.annotation.JsonProperty
 import org.signal.network.util.JsonUtil

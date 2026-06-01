@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.linkdevice
+package com.vprimex.messenger.linkdevice
 
 /**
  * Class that represents a linked device

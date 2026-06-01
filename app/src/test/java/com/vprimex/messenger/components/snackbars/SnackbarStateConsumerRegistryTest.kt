@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.snackbars
+package com.vprimex.messenger.components.snackbars
 
 import androidx.core.util.Consumer
 import androidx.lifecycle.Lifecycle

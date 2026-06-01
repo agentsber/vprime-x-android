@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.sms;
+package com.vprimex.messenger.sms;
 
 import androidx.annotation.NonNull;
 

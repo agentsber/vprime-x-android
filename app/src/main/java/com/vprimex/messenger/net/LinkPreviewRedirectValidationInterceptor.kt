@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.net
+package com.vprimex.messenger.net
 
 import okhttp3.Interceptor
 import okhttp3.Response

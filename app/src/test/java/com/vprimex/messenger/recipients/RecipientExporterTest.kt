@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.recipients
+package com.vprimex.messenger.recipients
 
 import android.app.Application
 import android.content.Intent

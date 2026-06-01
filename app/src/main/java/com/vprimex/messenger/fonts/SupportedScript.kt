@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.fonts
+package com.vprimex.messenger.fonts
 
 /**
  * Scripts with font support for Stories

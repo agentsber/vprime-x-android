@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messages.incomingmessageobserver
+package com.vprimex.messenger.messages.incomingmessageobserver
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import org.junit.Rule

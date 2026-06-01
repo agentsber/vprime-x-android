@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.gifts
+package com.vprimex.messenger.badges.gifts
 
 import android.content.Context
 import org.signal.core.util.Base64

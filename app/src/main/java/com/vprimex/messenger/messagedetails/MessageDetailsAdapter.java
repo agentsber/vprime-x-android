@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messagedetails;
+package com.vprimex.messenger.messagedetails;
 
 import android.annotation.SuppressLint;
 import android.view.LayoutInflater;

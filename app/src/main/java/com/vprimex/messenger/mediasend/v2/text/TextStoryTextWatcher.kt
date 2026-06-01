@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.text
+package com.vprimex.messenger.mediasend.v2.text
 
 import android.text.Editable
 import android.text.TextWatcher

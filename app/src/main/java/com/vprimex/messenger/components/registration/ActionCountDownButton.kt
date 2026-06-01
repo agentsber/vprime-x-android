@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.registration
+package com.vprimex.messenger.components.registration
 
 import android.content.Context
 import android.util.AttributeSet

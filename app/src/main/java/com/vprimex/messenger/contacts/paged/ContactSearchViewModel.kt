@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.paged
+package com.vprimex.messenger.contacts.paged
 
 import androidx.compose.runtime.Stable
 import androidx.lifecycle.AbstractSavedStateViewModelFactory

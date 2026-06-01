@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.gifts.viewgift.sent
+package com.vprimex.messenger.badges.gifts.viewgift.sent
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

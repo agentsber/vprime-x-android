@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.rx
+package com.vprimex.messenger.util.rx
 
 import io.reactivex.rxjava3.plugins.RxJavaPlugins
 import io.reactivex.rxjava3.schedulers.TestScheduler

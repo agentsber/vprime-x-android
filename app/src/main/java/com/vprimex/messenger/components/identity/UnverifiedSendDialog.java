@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.identity;
+package com.vprimex.messenger.components.identity;
 
 import android.content.Context;
 import android.content.DialogInterface;

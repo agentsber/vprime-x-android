@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.emoji
+package com.vprimex.messenger.emoji
 
 import okhttp3.Response
 import com.vprimex.messenger.s3.S3

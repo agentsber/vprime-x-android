@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediaoverview;
+package com.vprimex.messenger.mediaoverview;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.FragmentActivity;

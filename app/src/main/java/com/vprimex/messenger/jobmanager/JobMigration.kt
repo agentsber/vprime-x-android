@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobmanager
+package com.vprimex.messenger.jobmanager
 
 /**
  * Create a subclass of this to perform a migration on persisted [Job]s. A migration targets

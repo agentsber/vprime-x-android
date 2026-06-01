@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.emoji.search
+package com.vprimex.messenger.keyboard.emoji.search
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

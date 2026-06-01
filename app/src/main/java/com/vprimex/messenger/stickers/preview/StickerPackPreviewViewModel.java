@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stickers.preview;
+package com.vprimex.messenger.stickers.preview;
 
 import android.app.Application;
 import android.text.TextUtils;

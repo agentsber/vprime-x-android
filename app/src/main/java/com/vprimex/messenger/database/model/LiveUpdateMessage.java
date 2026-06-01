@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model;
+package com.vprimex.messenger.database.model;
 
 import android.content.Context;
 import android.text.Spannable;

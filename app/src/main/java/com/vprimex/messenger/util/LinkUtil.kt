@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 import okhttp3.HttpUrl.Companion.toHttpUrlOrNull
 import com.vprimex.messenger.stickers.StickerUrl

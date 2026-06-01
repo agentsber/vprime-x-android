@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.notifications.profiles
+package com.vprimex.messenger.components.settings.app.notifications.profiles
 
 import io.reactivex.rxjava3.core.Completable
 import io.reactivex.rxjava3.core.Flowable

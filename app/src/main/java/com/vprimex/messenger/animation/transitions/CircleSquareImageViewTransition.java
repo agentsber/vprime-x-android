@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.animation.transitions;
+package com.vprimex.messenger.animation.transitions;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;

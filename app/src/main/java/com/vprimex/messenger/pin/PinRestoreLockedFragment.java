@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.pin;
+package com.vprimex.messenger.pin;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

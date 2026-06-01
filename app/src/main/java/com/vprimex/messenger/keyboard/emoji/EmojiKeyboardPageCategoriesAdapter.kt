@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.emoji
+package com.vprimex.messenger.keyboard.emoji
 
 import com.vprimex.messenger.R
 import com.vprimex.messenger.keyboard.KeyboardPageCategoryIconViewHolder

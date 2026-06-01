@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.colors
+package com.vprimex.messenger.conversation.colors
 
 import com.vprimex.messenger.database.GroupTable
 import com.vprimex.messenger.database.SignalDatabase

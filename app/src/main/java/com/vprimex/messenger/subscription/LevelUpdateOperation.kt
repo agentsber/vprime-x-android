@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.subscription
+package com.vprimex.messenger.subscription
 
 import org.whispersystems.signalservice.api.subscriptions.IdempotencyKey
 import java.io.Closeable

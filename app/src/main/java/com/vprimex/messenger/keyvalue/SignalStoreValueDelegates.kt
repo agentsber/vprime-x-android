@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue
+package com.vprimex.messenger.keyvalue
 
 import com.squareup.wire.ProtoAdapter
 import kotlinx.coroutines.flow.Flow

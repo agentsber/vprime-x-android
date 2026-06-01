@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testing
+package com.vprimex.messenger.testing
 
 import android.database.Cursor
 import org.signal.core.util.Hex

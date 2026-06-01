@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.registration.fragments
+package com.vprimex.messenger.registration.fragments
 
 import android.content.Intent
 import android.view.View

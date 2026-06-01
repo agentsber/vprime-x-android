@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.loaders;
+package com.vprimex.messenger.database.loaders;
 
 import android.content.Context;
 import android.database.Cursor;

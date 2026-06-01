@@ -1,4 +1,4 @@
-﻿package org.signal.core.util
+package org.signal.core.util
 
 import android.app.ActivityManager
 import android.content.Context

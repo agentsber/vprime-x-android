@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.segmentedprogressbar
+package com.vprimex.messenger.components.segmentedprogressbar
 
 data class SegmentState(
   val position: Long,

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.scribbles.stickers
+package com.vprimex.messenger.scribbles.stickers
 
 /**
  * Types of feature rich stickers for the image editor

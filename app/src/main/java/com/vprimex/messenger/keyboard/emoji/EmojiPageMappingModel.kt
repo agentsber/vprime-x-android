@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.emoji
+package com.vprimex.messenger.keyboard.emoji
 
 import com.vprimex.messenger.components.emoji.EmojiPageModel
 import com.vprimex.messenger.util.adapter.mapping.MappingModel

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.subscription
+package com.vprimex.messenger.subscription
 
 import android.animation.Animator
 import android.animation.AnimatorSet

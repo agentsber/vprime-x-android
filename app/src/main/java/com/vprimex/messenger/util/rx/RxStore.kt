@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.rx
+package com.vprimex.messenger.util.rx
 
 import androidx.annotation.CheckResult
 import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers

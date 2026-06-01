@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.internal
+package com.vprimex.messenger.components.settings.app.internal
 
 import android.content.Context
 import org.json.JSONObject

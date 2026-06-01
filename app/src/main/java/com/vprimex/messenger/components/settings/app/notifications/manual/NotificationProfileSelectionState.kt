@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.notifications.manual
+package com.vprimex.messenger.components.settings.app.notifications.manual
 
 import com.vprimex.messenger.notifications.profiles.NotificationProfile
 import java.time.LocalDateTime

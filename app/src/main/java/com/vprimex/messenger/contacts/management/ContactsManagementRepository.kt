@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.management
+package com.vprimex.messenger.contacts.management
 
 import android.content.Context
 import androidx.annotation.CheckResult

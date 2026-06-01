@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.ui.managegroup.dialogs;
+package com.vprimex.messenger.groups.ui.managegroup.dialogs;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

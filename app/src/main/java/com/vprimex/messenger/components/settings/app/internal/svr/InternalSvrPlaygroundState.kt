@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.internal.svr
+package com.vprimex.messenger.components.settings.app.internal.svr
 
 import kotlinx.collections.immutable.ImmutableList
 

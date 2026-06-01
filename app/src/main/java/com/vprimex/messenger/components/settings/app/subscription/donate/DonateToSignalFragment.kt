@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate
+package com.vprimex.messenger.components.settings.app.subscription.donate
 
 import android.text.SpannableStringBuilder
 import android.view.View

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger
+package com.vprimex.messenger
 
 import android.os.StrictMode
 import android.os.StrictMode.ThreadPolicy

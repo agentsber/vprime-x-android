@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.qr
+package com.vprimex.messenger.qr
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.runtime.Composable

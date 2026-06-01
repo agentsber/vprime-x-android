@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.group
+package com.vprimex.messenger.stories.settings.group
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

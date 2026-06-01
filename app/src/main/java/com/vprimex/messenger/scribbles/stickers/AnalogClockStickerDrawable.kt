@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.scribbles.stickers
+package com.vprimex.messenger.scribbles.stickers
 
 import android.content.Context
 import android.graphics.Canvas

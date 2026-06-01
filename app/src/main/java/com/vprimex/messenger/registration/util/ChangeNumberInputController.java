@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.registration.util;
+package com.vprimex.messenger.registration.util;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

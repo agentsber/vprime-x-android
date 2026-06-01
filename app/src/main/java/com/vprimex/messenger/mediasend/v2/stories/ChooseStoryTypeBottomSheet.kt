@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.stories
+package com.vprimex.messenger.mediasend.v2.stories
 
 import org.signal.core.util.DimensionUnit
 import com.vprimex.messenger.R

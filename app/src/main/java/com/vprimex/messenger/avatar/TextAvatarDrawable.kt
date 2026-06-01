@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.avatar
+package com.vprimex.messenger.avatar
 
 import android.content.Context
 import android.graphics.Canvas

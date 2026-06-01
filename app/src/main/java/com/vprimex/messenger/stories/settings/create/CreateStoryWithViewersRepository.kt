@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.create
+package com.vprimex.messenger.stories.settings.create
 
 import io.reactivex.rxjava3.core.Single
 import io.reactivex.rxjava3.schedulers.Schedulers

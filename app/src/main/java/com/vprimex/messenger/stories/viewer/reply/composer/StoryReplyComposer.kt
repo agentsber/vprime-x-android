@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.reply.composer
+package com.vprimex.messenger.stories.viewer.reply.composer
 
 import android.content.Context
 import android.graphics.Rect

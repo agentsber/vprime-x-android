@@ -1,4 +1,4 @@
-﻿package org.signal.baselineprofile
+package org.signal.baselineprofile
 
 import androidx.test.uiautomator.By
 import androidx.test.uiautomator.UiDevice

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges
+package com.vprimex.messenger.badges
 
 import android.content.Context
 import androidx.annotation.WorkerThread

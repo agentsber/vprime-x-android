@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database
+package com.vprimex.messenger.database
 
 import androidx.annotation.VisibleForTesting
 import com.vprimex.messenger.database.model.PendingRetryReceiptModel

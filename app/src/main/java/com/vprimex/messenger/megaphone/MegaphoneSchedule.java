@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.megaphone;
+package com.vprimex.messenger.megaphone;
 
 import androidx.annotation.WorkerThread;
 

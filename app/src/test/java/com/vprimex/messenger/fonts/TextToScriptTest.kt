@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.fonts
+package com.vprimex.messenger.fonts
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

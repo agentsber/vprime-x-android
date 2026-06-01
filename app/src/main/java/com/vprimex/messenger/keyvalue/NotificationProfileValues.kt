@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue
+package com.vprimex.messenger.keyvalue
 
 /**
  * Values for managing enable/disable state and corresponding alerts for Notification Profiles.

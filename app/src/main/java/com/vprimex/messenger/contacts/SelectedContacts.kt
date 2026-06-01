@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts
+package com.vprimex.messenger.contacts
 
 import android.content.res.ColorStateList
 import android.view.View

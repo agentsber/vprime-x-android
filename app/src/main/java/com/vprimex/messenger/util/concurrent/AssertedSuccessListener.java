@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.concurrent;
+package com.vprimex.messenger.util.concurrent;
 
 import org.signal.core.util.concurrent.ListenableFuture.Listener;
 

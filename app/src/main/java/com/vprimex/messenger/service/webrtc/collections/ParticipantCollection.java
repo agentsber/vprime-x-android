@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service.webrtc.collections;
+package com.vprimex.messenger.service.webrtc.collections;
 
 import androidx.annotation.CheckResult;
 import androidx.annotation.NonNull;

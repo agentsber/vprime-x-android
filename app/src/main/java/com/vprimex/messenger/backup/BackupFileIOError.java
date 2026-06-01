@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.backup;
+package com.vprimex.messenger.backup;
 
 import android.Manifest;
 import android.app.Notification;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database;
+package com.vprimex.messenger.database;
 
 public class NoSuchMessageException extends Exception {
   public NoSuchMessageException(String s) {super(s);}

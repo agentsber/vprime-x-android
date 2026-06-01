@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model;
+package com.vprimex.messenger.database.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;

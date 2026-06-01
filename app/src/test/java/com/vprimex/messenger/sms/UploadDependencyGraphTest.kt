@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.sms
+package com.vprimex.messenger.sms
 
 import android.app.Application
 import io.mockk.every

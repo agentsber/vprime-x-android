@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Copyright (C) 2012 Moxie Marlinspike
  * Copyright (C) 2013-2017 Open Whisper Systems
  *

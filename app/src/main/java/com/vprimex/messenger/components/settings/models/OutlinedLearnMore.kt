@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.models
+package com.vprimex.messenger.components.settings.models
 
 import com.vprimex.messenger.components.settings.DSLSettingsText
 import com.vprimex.messenger.components.settings.PreferenceModel

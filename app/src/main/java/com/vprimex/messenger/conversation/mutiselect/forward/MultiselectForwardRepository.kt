@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.mutiselect.forward
+package com.vprimex.messenger.conversation.mutiselect.forward
 
 import io.reactivex.rxjava3.core.Single
 import io.reactivex.rxjava3.schedulers.Schedulers

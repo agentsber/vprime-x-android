@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.video.videoconverter.muxer;
+package com.vprimex.messenger.video.videoconverter.muxer;
 
 final class MuxingException extends RuntimeException {
 

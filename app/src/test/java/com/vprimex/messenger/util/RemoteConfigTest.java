@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util;
+package com.vprimex.messenger.util;
 
 import org.junit.Test;
 import com.vprimex.messenger.util.RemoteConfig.ConfigChange;

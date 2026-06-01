@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.giph.mp4;
+package com.vprimex.messenger.giph.mp4;
 
 import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;

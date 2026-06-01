@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database;
+package com.vprimex.messenger.database;
 
 import net.zetetic.database.sqlcipher.SQLiteDatabase;
 

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.crash
+package com.vprimex.messenger.crash
 
 import android.app.Application
 import assertk.assertThat

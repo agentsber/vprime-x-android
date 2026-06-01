@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messagedetails;
+package com.vprimex.messenger.messagedetails;
 
 import android.view.View;
 import android.widget.TextView;

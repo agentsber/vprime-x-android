@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.dynamiclanguage;
+package com.vprimex.messenger.util.dynamiclanguage;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

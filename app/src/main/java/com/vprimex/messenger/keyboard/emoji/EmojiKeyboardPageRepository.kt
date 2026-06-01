@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.emoji
+package com.vprimex.messenger.keyboard.emoji
 
 import android.content.Context
 import org.signal.core.util.concurrent.SignalExecutors

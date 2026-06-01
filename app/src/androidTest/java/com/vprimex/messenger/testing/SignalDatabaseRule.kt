@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testing
+package com.vprimex.messenger.testing
 
 import org.junit.rules.TestWatcher
 import org.junit.runner.Description

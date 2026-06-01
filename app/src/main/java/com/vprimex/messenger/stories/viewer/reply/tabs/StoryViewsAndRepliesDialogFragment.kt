@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.reply.tabs
+package com.vprimex.messenger.stories.viewer.reply.tabs
 
 import android.content.DialogInterface
 import android.os.Bundle

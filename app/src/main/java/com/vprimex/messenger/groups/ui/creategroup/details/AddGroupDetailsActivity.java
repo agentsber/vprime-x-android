@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.ui.creategroup.details;
+package com.vprimex.messenger.groups.ui.creategroup.details;
 
 import android.content.Context;
 import android.content.Intent;

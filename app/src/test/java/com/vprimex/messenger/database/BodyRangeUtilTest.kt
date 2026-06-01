@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database
+package com.vprimex.messenger.database
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

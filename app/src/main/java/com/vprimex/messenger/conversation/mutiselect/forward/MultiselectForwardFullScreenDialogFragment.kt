@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.mutiselect.forward
+package com.vprimex.messenger.conversation.mutiselect.forward
 
 import android.os.Bundle
 import android.view.View

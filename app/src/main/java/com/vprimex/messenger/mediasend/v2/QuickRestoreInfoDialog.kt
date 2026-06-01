@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2
+package com.vprimex.messenger.mediasend.v2
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column

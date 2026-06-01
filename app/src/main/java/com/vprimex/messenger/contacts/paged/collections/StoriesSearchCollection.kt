@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.paged.collections
+package com.vprimex.messenger.contacts.paged.collections
 
 import com.vprimex.messenger.contacts.paged.ContactSearchConfiguration
 import com.vprimex.messenger.contacts.paged.ContactSearchData

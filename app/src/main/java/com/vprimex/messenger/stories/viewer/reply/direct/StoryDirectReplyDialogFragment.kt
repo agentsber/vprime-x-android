@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.reply.direct
+package com.vprimex.messenger.stories.viewer.reply.direct
 
 import android.content.DialogInterface
 import android.os.Bundle

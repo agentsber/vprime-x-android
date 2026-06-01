@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.page
+package com.vprimex.messenger.stories.viewer.page
 
 import android.os.Parcel
 import android.os.Parcelable

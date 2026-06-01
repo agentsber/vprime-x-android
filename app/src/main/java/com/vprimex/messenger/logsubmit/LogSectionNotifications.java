@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.logsubmit;
+package com.vprimex.messenger.logsubmit;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;

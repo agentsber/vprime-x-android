@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service;
+package com.vprimex.messenger.service;
 
 import android.accounts.AbstractAccountAuthenticator;
 import android.accounts.Account;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.self.featured
+package com.vprimex.messenger.badges.self.featured
 
 import com.vprimex.messenger.badges.models.Badge
 

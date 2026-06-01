@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.sync;
+package com.vprimex.messenger.contacts.sync;
 
 import org.junit.Test;
 import com.vprimex.messenger.contacts.sync.FuzzyPhoneNumberHelper.InputResult;

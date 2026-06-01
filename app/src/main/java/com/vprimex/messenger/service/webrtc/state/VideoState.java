@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service.webrtc.state;
+package com.vprimex.messenger.service.webrtc.state;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

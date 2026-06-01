@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messages
+package com.vprimex.messenger.messages
 
 import android.os.PowerManager
 import androidx.annotation.AnyThread

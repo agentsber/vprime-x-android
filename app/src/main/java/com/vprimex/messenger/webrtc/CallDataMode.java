@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.webrtc;
+package com.vprimex.messenger.webrtc;
 
 /**
  * Represents the user's desired data mode for calls.

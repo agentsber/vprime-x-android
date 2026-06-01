@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.glide.cache
+package com.vprimex.messenger.glide.cache
 
 import org.signal.glide.common.io.Reader
 import java.io.IOException

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.mutiselect.forward
+package com.vprimex.messenger.conversation.mutiselect.forward
 
 import androidx.fragment.app.FragmentManager
 import com.vprimex.messenger.contacts.paged.ArbitraryRepository

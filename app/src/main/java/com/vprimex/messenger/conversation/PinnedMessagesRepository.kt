@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation
+package com.vprimex.messenger.conversation
 
 import android.app.Application
 import io.reactivex.rxjava3.core.Observable

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.error;
+package com.vprimex.messenger.conversation.ui.error;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;

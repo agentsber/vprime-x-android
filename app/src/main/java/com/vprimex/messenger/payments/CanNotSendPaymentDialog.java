@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments;
+package com.vprimex.messenger.payments;
 
 import android.app.AlertDialog;
 import android.content.Context;

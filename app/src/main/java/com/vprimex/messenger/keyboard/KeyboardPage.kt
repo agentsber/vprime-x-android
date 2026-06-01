@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard
+package com.vprimex.messenger.keyboard
 
 enum class KeyboardPage {
   EMOJI,

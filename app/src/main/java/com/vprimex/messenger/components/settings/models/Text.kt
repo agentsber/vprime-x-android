@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.models
+package com.vprimex.messenger.components.settings.models
 
 import android.text.Spanned
 import android.text.method.LinkMovementMethod

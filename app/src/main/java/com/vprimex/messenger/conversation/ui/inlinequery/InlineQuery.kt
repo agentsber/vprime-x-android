@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.inlinequery
+package com.vprimex.messenger.conversation.ui.inlinequery
 
 /**
  * Represents an inline query via compose text.

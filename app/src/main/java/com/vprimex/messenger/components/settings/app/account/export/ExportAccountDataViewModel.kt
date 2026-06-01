@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.account.export
+package com.vprimex.messenger.components.settings.app.account.export
 
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf

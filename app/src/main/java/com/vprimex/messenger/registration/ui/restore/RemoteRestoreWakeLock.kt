@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.registration.ui.restore
+package com.vprimex.messenger.registration.ui.restore
 
 import android.os.PowerManager
 import androidx.activity.ComponentActivity

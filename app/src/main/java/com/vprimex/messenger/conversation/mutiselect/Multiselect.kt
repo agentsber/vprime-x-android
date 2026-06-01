@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.mutiselect
+package com.vprimex.messenger.conversation.mutiselect
 
 import com.vprimex.messenger.conversation.ConversationMessage
 import com.vprimex.messenger.database.model.MmsMessageRecord

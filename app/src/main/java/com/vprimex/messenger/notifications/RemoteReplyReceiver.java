@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Copyright (C) 2016 Open Whisper Systems
  *
  * This program is free software: you can redistribute it and/or modify

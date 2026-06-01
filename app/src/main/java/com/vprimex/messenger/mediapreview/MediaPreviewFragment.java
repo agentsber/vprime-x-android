@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediapreview;
+package com.vprimex.messenger.mediapreview;
 
 import android.content.Context;
 import android.net.Uri;

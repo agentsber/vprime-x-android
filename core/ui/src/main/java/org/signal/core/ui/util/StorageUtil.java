@@ -1,4 +1,4 @@
-﻿package org.signal.core.ui.util;
+package org.signal.core.ui.util;
 
 import android.Manifest;
 import android.content.Context;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.pin;
+package com.vprimex.messenger.pin;
 
 public final class SvrWrongPinException extends Exception {
 

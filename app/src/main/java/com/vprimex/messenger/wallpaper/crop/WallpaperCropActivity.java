@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.wallpaper.crop;
+package com.vprimex.messenger.wallpaper.crop;
 
 import android.content.Context;
 import android.content.Intent;

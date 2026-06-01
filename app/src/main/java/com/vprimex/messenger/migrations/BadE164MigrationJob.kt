@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.migrations
+package com.vprimex.messenger.migrations
 
 import android.database.sqlite.SQLiteConstraintException
 import org.signal.core.util.Stopwatch

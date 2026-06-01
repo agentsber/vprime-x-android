@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories
+package com.vprimex.messenger.stories
 
 import io.mockk.every
 import io.mockk.just

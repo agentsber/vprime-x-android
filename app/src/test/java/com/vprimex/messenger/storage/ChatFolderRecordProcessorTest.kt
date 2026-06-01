@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.storage
+package com.vprimex.messenger.storage
 
 import okio.ByteString.Companion.toByteString
 import org.junit.Assert.assertFalse

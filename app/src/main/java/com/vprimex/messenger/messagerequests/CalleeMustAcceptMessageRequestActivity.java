@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messagerequests;
+package com.vprimex.messenger.messagerequests;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

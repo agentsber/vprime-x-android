@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messagerequests
+package com.vprimex.messenger.messagerequests
 
 import android.content.Context
 import android.content.res.ColorStateList

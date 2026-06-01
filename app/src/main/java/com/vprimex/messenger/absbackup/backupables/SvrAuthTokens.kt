@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.absbackup.backupables
+package com.vprimex.messenger.absbackup.backupables
 
 import org.signal.core.util.logging.Log
 import com.vprimex.messenger.absbackup.AndroidBackupItem

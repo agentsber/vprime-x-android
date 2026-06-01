@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.privacy
+package com.vprimex.messenger.stories.settings.privacy
 
 import androidx.lifecycle.ViewModel
 import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers

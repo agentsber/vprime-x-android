@@ -1,4 +1,4 @@
-﻿package org.signal.camera.demo
+package org.signal.camera.demo
 
 import android.app.Application
 import android.content.Context

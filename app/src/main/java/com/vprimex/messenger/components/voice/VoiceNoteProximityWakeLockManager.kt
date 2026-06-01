@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.voice
+package com.vprimex.messenger.components.voice
 
 import android.hardware.Sensor
 import android.hardware.SensorEvent

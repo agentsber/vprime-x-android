@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.securitysetup
+package com.vprimex.messenger.payments.securitysetup
 
 import android.os.Bundle
 import android.view.View

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobs
+package com.vprimex.messenger.jobs
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import assertk.assertThat

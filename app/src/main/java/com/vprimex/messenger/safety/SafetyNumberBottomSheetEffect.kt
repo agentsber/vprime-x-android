@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.safety
+package com.vprimex.messenger.safety
 
 import com.vprimex.messenger.contacts.paged.ContactSearchKey
 import com.vprimex.messenger.conversation.ui.error.TrustAndVerifyResult

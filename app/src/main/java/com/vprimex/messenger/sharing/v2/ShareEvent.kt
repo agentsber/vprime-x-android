@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.sharing.v2
+package com.vprimex.messenger.sharing.v2
 
 import com.vprimex.messenger.contacts.paged.ContactSearchKey
 import com.vprimex.messenger.sharing.MultiShareArgs

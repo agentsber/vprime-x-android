@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.archive
+package com.vprimex.messenger.stories.archive
 
 import org.signal.paging.PagedDataSource
 import com.vprimex.messenger.database.SignalDatabase

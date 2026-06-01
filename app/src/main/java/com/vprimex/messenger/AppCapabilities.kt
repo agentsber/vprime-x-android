@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger
+package com.vprimex.messenger
 
 import org.whispersystems.signalservice.api.account.AccountAttributes
 

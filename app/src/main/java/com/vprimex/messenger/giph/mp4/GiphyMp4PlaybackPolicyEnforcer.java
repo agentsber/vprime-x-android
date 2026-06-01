@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.giph.mp4;
+package com.vprimex.messenger.giph.mp4;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.VisibleForTesting;

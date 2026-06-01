@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.emoji;
+package com.vprimex.messenger.components.emoji;
 
 import android.content.Context;
 import android.content.SharedPreferences;

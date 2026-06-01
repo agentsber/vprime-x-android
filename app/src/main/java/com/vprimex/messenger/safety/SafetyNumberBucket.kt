@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.safety
+package com.vprimex.messenger.safety
 
 import com.vprimex.messenger.database.model.DistributionListId
 import com.vprimex.messenger.recipients.Recipient

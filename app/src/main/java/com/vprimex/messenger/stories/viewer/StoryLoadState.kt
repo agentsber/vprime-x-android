@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer
+package com.vprimex.messenger.stories.viewer
 
 data class StoryLoadState(
   val isContentReady: Boolean = false,

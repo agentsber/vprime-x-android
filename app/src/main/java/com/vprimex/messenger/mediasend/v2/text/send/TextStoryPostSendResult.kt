@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.text.send
+package com.vprimex.messenger.mediasend.v2.text.send
 
 import com.vprimex.messenger.database.model.IdentityRecord
 

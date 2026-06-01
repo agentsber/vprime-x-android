@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.menu
+package com.vprimex.messenger.components.menu
 
 import android.content.Context
 import android.util.AttributeSet

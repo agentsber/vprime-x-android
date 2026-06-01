@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database
+package com.vprimex.messenger.database
 
 import android.database.Cursor
 import org.signal.core.util.requireBlob

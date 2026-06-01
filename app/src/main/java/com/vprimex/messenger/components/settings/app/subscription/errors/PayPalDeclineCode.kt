@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.errors
+package com.vprimex.messenger.components.settings.app.subscription.errors
 
 /**
  * From: https://developer.paypal.com/braintree/docs/reference/general/processor-responses/authorization-responses#decline-codes

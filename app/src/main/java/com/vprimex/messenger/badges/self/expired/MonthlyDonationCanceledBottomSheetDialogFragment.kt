@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.self.expired
+package com.vprimex.messenger.badges.self.expired
 
 import android.content.res.Configuration
 import android.net.Uri

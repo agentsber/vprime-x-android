@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue;
+package com.vprimex.messenger.keyvalue;
 
 public enum PaymentsAvailability {
   NOT_IN_REGION(false, false),

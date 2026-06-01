@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.quotes
+package com.vprimex.messenger.conversation.quotes
 
 import android.annotation.SuppressLint
 import android.os.Bundle

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.internal.donor
+package com.vprimex.messenger.components.settings.app.internal.donor
 
 import org.signal.donations.StripeDeclineCode
 import com.vprimex.messenger.badges.models.Badge

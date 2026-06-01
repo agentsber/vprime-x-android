@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.dialogs
+package com.vprimex.messenger.stories.dialogs
 
 import android.app.Application
 import android.content.Context

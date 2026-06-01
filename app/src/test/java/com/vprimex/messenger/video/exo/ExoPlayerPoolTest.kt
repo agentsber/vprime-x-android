@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.video.exo
+package com.vprimex.messenger.video.exo
 
 import android.app.Application
 import androidx.media3.common.TrackSelectionParameters

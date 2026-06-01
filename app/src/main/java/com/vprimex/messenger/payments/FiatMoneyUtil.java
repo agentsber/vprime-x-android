@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments;
+package com.vprimex.messenger.payments;
 import android.content.res.Resources;
 
 import androidx.annotation.NonNull;

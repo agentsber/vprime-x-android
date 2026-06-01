@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app
+package com.vprimex.messenger.components.settings.app
 
 import android.content.Context
 import android.content.Intent

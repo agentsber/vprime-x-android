@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.manage;
+package com.vprimex.messenger.profiles.manage;
 
 import android.animation.LayoutTransition;
 import android.app.Activity;

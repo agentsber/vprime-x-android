@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service
+package com.vprimex.messenger.service
 
 import android.app.ForegroundServiceStartNotAllowedException
 import android.app.PendingIntent

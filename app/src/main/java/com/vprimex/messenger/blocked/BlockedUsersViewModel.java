@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.blocked;
+package com.vprimex.messenger.blocked;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

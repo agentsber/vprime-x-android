@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.backup
+package com.vprimex.messenger.backup
 
 import com.vprimex.messenger.database.AttachmentTable
 import com.vprimex.messenger.database.GroupReceiptTable

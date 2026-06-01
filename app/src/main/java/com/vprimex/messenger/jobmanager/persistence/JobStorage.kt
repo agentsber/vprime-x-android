@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobmanager.persistence
+package com.vprimex.messenger.jobmanager.persistence
 
 import androidx.annotation.WorkerThread
 import com.vprimex.messenger.jobs.MinimalJobSpec

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messagerequests
+package com.vprimex.messenger.messagerequests
 
 import com.vprimex.messenger.recipients.Recipient
 

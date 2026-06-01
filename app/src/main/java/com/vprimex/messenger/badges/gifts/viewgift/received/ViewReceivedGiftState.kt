@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.gifts.viewgift.received
+package com.vprimex.messenger.badges.gifts.viewgift.received
 
 import com.vprimex.messenger.badges.models.Badge
 import com.vprimex.messenger.database.model.databaseprotos.GiftBadge

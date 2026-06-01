@@ -1,4 +1,4 @@
-﻿package org.thoughtcrime.benchmark
+package org.thoughtcrime.benchmark
 
 import android.Manifest
 import android.os.Build

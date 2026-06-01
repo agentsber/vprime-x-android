@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messagerequests
+package com.vprimex.messenger.messagerequests
 
 /**
  * Data necessary to render message request view.

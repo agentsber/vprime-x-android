@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.create
+package com.vprimex.messenger.stories.settings.create
 
 import android.view.View
 import android.widget.EditText

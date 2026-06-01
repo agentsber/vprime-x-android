@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.webrtc
+package com.vprimex.messenger.webrtc
 
 import com.vprimex.messenger.components.webrtc.CallParticipantsState
 import com.vprimex.messenger.service.webrtc.state.WebRtcEphemeralState

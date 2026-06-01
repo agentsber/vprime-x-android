@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation
+package com.vprimex.messenger.conversation
 
 sealed class ConversationItemDisplayMode(val messageMode: MessageMode = MessageMode.STANDARD) {
   /** Normal rendering, used for normal bubbles in the conversation view */

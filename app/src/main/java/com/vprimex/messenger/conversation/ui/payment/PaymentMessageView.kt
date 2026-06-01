@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.payment
+package com.vprimex.messenger.conversation.ui.payment
 
 import android.content.Context
 import android.content.res.ColorStateList

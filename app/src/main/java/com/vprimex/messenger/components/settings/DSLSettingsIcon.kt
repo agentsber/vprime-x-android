@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings
+package com.vprimex.messenger.components.settings
 
 import android.content.Context
 import android.graphics.PorterDuff

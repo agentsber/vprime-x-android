@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.landing
+package com.vprimex.messenger.stories.landing
 
 data class StoriesLandingState(
   val storiesLandingItems: List<StoriesLandingItemData> = emptyList(),

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.storage
+package com.vprimex.messenger.storage
 
 import org.signal.core.util.StringUtil
 import org.signal.core.util.UuidUtil

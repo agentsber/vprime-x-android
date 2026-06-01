@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.inlinequery
+package com.vprimex.messenger.conversation.ui.inlinequery
 
 /**
  * Called when a query changes.

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups
+package com.vprimex.messenger.groups
 
 import android.app.Application
 import androidx.test.core.app.ApplicationProvider

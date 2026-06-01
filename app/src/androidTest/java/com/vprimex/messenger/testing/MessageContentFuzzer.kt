@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testing
+package com.vprimex.messenger.testing
 
 import okio.ByteString
 import okio.ByteString.Companion.toByteString

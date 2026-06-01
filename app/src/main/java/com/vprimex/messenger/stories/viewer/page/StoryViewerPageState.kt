@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.page
+package com.vprimex.messenger.stories.viewer.page
 
 data class StoryViewerPageState(
   val posts: List<StoryPost> = emptyList(),

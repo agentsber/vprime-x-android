@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.text.send
+package com.vprimex.messenger.mediasend.v2.text.send
 
 import android.graphics.Bitmap
 import android.net.Uri

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.gifts.viewgift.received
+package com.vprimex.messenger.badges.gifts.viewgift.received
 
 import android.content.DialogInterface
 import android.os.Bundle

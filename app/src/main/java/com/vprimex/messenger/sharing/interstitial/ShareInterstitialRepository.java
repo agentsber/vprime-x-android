@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.sharing.interstitial;
+package com.vprimex.messenger.sharing.interstitial;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.WorkerThread;

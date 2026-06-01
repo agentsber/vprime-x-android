@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.manage;
+package com.vprimex.messenger.profiles.manage;
 
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;

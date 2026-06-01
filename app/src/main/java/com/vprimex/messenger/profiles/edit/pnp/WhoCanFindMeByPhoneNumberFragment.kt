@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.edit.pnp
+package com.vprimex.messenger.profiles.edit.pnp
 
 import android.os.Bundle
 import androidx.core.content.ContextCompat

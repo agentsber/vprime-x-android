@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service.webrtc
+package com.vprimex.messenger.service.webrtc
 
 import okio.ByteString
 import okio.ByteString.Companion.toByteString

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.models
+package com.vprimex.messenger.badges.models
 
 import android.animation.ObjectAnimator
 import android.net.Uri

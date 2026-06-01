@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.reactions;
+package com.vprimex.messenger.reactions;
 
 import android.view.LayoutInflater;
 import android.view.View;

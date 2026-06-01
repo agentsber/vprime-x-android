@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue
+package com.vprimex.messenger.keyvalue
 
 import com.fasterxml.jackson.annotation.JsonProperty
 import kotlinx.coroutines.flow.Flow

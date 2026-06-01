@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.recipients.ui.disappearingmessages;
+package com.vprimex.messenger.recipients.ui.disappearingmessages;
 
 import android.content.Context;
 import android.content.Intent;

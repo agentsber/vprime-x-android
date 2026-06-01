@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messagedetails;
+package com.vprimex.messenger.messagedetails;
 
 import androidx.annotation.WorkerThread;
 import androidx.lifecycle.LiveData;

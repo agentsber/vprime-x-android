@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.webrtc
+package com.vprimex.messenger.components.webrtc
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.lock;
+package com.vprimex.messenger.lock;
 
 import android.content.Context;
 import android.content.Intent;

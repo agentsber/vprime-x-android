@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components;
+package com.vprimex.messenger.components;
 
 import android.Manifest;
 import android.animation.Animator;

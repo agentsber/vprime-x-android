@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.create
+package com.vprimex.messenger.stories.settings.create
 
 import android.os.Bundle
 import androidx.fragment.app.DialogFragment

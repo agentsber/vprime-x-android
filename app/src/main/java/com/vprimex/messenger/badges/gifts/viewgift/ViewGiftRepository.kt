@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.gifts.viewgift
+package com.vprimex.messenger.badges.gifts.viewgift
 
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.core.Single

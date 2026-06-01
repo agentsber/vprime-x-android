@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.ratelimit;
+package com.vprimex.messenger.ratelimit;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

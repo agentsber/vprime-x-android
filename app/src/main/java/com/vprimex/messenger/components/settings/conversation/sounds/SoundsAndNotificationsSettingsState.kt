@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation.sounds
+package com.vprimex.messenger.components.settings.conversation.sounds
 
 import com.vprimex.messenger.database.RecipientTable
 import com.vprimex.messenger.recipients.Recipient

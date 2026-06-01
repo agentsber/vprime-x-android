@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments
+package com.vprimex.messenger.payments
 
 import assertk.assertFailure
 import assertk.assertThat

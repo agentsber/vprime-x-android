@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.colors;
+package com.vprimex.messenger.conversation.colors;
 
 import androidx.annotation.ColorInt;
 import androidx.annotation.NonNull;

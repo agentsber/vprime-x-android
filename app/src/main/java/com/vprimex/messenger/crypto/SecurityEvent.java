@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.crypto;
+package com.vprimex.messenger.crypto;
 
 import android.content.Context;
 import android.content.Intent;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversationlist.chatfilter
+package com.vprimex.messenger.conversationlist.chatfilter
 
 /**
  * Describes where the chat filter was applied from.

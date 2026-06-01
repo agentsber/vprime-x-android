@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.calls.log
+package com.vprimex.messenger.calls.log
 
 import io.reactivex.rxjava3.core.Completable
 import io.reactivex.rxjava3.core.Observable

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 import org.signal.core.util.CharacterIterable
 import java.util.regex.Pattern

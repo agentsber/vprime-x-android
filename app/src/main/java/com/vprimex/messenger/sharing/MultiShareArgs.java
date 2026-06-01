@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.sharing;
+package com.vprimex.messenger.sharing;
 
 import android.net.Uri;
 import android.os.Parcel;

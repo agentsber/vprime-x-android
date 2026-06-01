@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.spoiler.compose
+package com.vprimex.messenger.components.spoiler.compose
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.Stable

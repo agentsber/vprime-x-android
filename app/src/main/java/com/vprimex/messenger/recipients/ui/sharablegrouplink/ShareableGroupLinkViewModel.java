@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.recipients.ui.sharablegrouplink;
+package com.vprimex.messenger.recipients.ui.sharablegrouplink;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

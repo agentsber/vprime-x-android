@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.internal
+package com.vprimex.messenger.components.settings.app.internal
 
 import android.widget.Toast
 import androidx.compose.foundation.clickable

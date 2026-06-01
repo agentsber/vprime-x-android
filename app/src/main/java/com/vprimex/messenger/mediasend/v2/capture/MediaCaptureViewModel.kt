@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.capture
+package com.vprimex.messenger.mediasend.v2.capture
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

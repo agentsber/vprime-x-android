@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.identity;
+package com.vprimex.messenger.database.identity;
 
 import androidx.annotation.NonNull;
 

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediaoverview
+package com.vprimex.messenger.mediaoverview
 
 import com.vprimex.messenger.attachments.AttachmentId
 import com.vprimex.messenger.database.MediaTable.MediaRecord

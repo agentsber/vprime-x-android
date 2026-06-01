@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.reactions
+package com.vprimex.messenger.reactions
 
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.core.ObservableEmitter

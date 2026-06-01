@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversationlist.model
+package com.vprimex.messenger.conversationlist.model
 
 class ConversationSet @JvmOverloads constructor(
   private val conversations: Set<Conversation> = emptySet()

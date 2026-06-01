@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.currency
+package com.vprimex.messenger.components.settings.app.subscription.currency
 
 import androidx.annotation.VisibleForTesting
 import androidx.lifecycle.LiveData

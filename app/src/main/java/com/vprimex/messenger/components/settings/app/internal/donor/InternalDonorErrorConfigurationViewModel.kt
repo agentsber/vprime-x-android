@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.internal.donor
+package com.vprimex.messenger.components.settings.app.internal.donor
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

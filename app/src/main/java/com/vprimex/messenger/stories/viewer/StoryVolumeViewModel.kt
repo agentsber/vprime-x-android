@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer
+package com.vprimex.messenger.stories.viewer
 
 import androidx.lifecycle.ViewModel
 import io.reactivex.rxjava3.core.Flowable

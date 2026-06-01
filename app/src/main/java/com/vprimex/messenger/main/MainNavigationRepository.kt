@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.main
+package com.vprimex.messenger.main
 
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.reactive.asFlow

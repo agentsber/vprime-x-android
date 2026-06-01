@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediapreview
+package com.vprimex.messenger.mediapreview
 
 import android.text.SpannableString
 import org.signal.core.models.media.Media

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.appearance.navbar
+package com.vprimex.messenger.components.settings.app.appearance.navbar
 
 import android.app.Dialog
 import android.graphics.Color

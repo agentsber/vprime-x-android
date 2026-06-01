@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.registration.viewmodel;
+package com.vprimex.messenger.registration.viewmodel;
 
 import android.os.Parcel;
 import android.os.Parcelable;

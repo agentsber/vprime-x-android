@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts.paged
+package com.vprimex.messenger.contacts.paged
 
 import androidx.annotation.CheckResult
 import io.reactivex.rxjava3.core.Completable

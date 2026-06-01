@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.sharing;
+package com.vprimex.messenger.sharing;
 
 import android.view.View;
 import android.widget.TextView;

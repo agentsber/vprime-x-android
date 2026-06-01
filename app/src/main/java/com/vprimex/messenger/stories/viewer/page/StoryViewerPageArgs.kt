@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.page
+package com.vprimex.messenger.stories.viewer.page
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

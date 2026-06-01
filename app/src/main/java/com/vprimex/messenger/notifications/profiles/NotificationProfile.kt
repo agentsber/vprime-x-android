@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.notifications.profiles
+package com.vprimex.messenger.notifications.profiles
 
 import com.vprimex.messenger.conversation.colors.AvatarColor
 import com.vprimex.messenger.recipients.RecipientId

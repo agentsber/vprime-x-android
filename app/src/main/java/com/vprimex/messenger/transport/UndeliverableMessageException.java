@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.transport;
+package com.vprimex.messenger.transport;
 
 public class UndeliverableMessageException extends Exception {
   public UndeliverableMessageException() {

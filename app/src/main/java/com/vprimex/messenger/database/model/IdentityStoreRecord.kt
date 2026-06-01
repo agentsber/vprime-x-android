@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.model
+package com.vprimex.messenger.database.model
 
 import org.signal.libsignal.protocol.IdentityKey
 import com.vprimex.messenger.database.IdentityTable

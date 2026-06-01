@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.absbackup
+package com.vprimex.messenger.absbackup
 
 /**
  * Abstracts away the implementation of pieces of data we want to hand off to various backup services.

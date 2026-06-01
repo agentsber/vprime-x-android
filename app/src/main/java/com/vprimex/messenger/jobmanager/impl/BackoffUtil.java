@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.jobmanager.impl;
+package com.vprimex.messenger.jobmanager.impl;
 
 public final class BackoffUtil {
 

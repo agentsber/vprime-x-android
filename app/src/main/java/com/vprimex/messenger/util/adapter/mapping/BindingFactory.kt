@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.adapter.mapping
+package com.vprimex.messenger.util.adapter.mapping
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

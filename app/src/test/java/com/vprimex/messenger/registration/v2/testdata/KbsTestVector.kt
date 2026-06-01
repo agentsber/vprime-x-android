@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.registration.v2.testdata
+package com.vprimex.messenger.registration.v2.testdata
 
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize

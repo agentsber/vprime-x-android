@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.scribbles;
+package com.vprimex.messenger.scribbles;
 
 import android.content.Context;
 import android.content.Intent;

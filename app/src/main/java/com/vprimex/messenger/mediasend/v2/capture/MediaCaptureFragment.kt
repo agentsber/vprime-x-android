@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.mediasend.v2.capture
+package com.vprimex.messenger.mediasend.v2.capture
 
 import android.os.Bundle
 import android.view.View

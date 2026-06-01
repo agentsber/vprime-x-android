@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.avatar.view
+package com.vprimex.messenger.avatar.view
 
 import android.content.Context
 import android.util.AttributeSet

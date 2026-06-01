@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.audio
+package com.vprimex.messenger.audio
 
 import android.content.Context
 import android.media.AudioAttributes

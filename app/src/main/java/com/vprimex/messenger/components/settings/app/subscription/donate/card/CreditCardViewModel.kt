@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate.card
+package com.vprimex.messenger.components.settings.app.subscription.donate.card
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

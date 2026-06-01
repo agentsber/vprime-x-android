@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.views;
+package com.vprimex.messenger.util.views;
 
 import android.content.Context;
 import android.text.Spannable;

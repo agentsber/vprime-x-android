@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.webrtc
+package com.vprimex.messenger.components.webrtc
 
 import assertk.assertThat
 import assertk.assertions.containsExactlyInAnyOrder

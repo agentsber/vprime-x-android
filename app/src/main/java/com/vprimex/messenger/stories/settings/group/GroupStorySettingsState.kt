@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.group
+package com.vprimex.messenger.stories.settings.group
 
 import com.vprimex.messenger.recipients.Recipient
 

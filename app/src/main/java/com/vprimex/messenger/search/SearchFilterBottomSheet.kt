@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.search
+package com.vprimex.messenger.search
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement

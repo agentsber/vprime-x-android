@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Copyright (C) 2007 Esmertec AG.
  * Copyright (C) 2007 The Android Open Source Project
  *

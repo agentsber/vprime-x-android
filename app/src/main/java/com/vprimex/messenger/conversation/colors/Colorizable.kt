@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.colors
+package com.vprimex.messenger.conversation.colors
 
 import android.view.ViewGroup
 import com.vprimex.messenger.util.ProjectionList

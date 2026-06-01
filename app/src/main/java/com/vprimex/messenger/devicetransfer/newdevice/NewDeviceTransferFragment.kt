@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.devicetransfer.newdevice
+package com.vprimex.messenger.devicetransfer.newdevice
 
 import android.os.Bundle
 import android.view.View

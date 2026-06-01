@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util
+package com.vprimex.messenger.util
 
 import com.google.i18n.phonenumbers.PhoneNumberUtil
 import java.util.Locale

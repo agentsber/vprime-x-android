@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.deactivate;
+package com.vprimex.messenger.payments.deactivate;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.Transformations;

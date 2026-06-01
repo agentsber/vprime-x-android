@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.ui.invitesandrequests.joining;
+package com.vprimex.messenger.groups.ui.invitesandrequests.joining;
 
 import com.vprimex.messenger.recipients.Recipient;
 

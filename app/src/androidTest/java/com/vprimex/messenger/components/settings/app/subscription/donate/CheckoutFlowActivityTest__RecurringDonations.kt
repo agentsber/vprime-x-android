@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate
+package com.vprimex.messenger.components.settings.app.subscription.donate
 
 import androidx.test.core.app.ActivityScenario
 import androidx.test.espresso.Espresso.onView

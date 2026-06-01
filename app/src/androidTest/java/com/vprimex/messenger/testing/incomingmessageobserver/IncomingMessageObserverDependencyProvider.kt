@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.testing.incomingmessageobserver
+package com.vprimex.messenger.testing.incomingmessageobserver
 
 import android.app.Application
 import org.signal.benchmark.setup.NoOpJob

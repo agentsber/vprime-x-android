@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups.v2.processing
+package com.vprimex.messenger.groups.v2.processing
 
 import android.annotation.SuppressLint
 import android.app.Application

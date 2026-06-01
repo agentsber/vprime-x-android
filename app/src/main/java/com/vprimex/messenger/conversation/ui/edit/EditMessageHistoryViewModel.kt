@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.edit
+package com.vprimex.messenger.conversation.ui.edit
 
 import androidx.lifecycle.ViewModel
 import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers

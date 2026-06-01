@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.dialogs
+package com.vprimex.messenger.stories.dialogs
 
 import android.content.ActivityNotFoundException
 import android.content.ComponentName

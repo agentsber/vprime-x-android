@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.linkpreview
+package com.vprimex.messenger.linkpreview
 
 import android.app.Application
 import io.mockk.every

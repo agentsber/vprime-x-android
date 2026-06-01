@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.colors.ui.custom
+package com.vprimex.messenger.conversation.colors.ui.custom
 
 import androidx.core.graphics.ColorUtils
 import androidx.lifecycle.LiveData

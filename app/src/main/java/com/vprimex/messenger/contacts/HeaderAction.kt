@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.contacts
+package com.vprimex.messenger.contacts
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes

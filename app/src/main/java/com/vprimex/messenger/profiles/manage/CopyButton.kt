@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.manage
+package com.vprimex.messenger.profiles.manage
 
 import com.vprimex.messenger.databinding.CopyButtonBinding
 import com.vprimex.messenger.util.adapter.mapping.BindingFactory

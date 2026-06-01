@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.messageprocessingalarm;
+package com.vprimex.messenger.messageprocessingalarm;
 
 import android.annotation.SuppressLint;
 import android.app.AlarmManager;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.inlinequery
+package com.vprimex.messenger.conversation.ui.inlinequery
 
 import com.vprimex.messenger.R
 import com.vprimex.messenger.util.adapter.mapping.AnyMappingModel

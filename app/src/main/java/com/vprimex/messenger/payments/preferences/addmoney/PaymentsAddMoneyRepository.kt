@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.preferences.addmoney
+package com.vprimex.messenger.payments.preferences.addmoney
 
 import androidx.annotation.MainThread
 import io.reactivex.rxjava3.core.Single

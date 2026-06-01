@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.service.webrtc
+package com.vprimex.messenger.service.webrtc
 
 import org.signal.core.models.ServiceId.ACI
 import org.signal.ringrtc.CallManager

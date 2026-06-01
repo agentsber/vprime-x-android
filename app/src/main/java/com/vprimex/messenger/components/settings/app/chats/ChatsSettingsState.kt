@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.chats
+package com.vprimex.messenger.components.settings.app.chats
 
 import com.vprimex.messenger.backup.LocalExportProgress
 import com.vprimex.messenger.keyvalue.protos.LocalBackupCreationProgress

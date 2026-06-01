@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger
+package com.vprimex.messenger
 
 import org.signal.core.util.logging.AndroidLogger
 import org.signal.core.util.logging.Log

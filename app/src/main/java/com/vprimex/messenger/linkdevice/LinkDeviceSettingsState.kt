@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.linkdevice
+package com.vprimex.messenger.linkdevice
 
 import android.net.Uri
 import com.vprimex.messenger.keyvalue.SignalStore

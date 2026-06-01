@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyvalue
+package com.vprimex.messenger.keyvalue
 
 import com.vprimex.messenger.database.model.DistributionListId
 import com.vprimex.messenger.groups.GroupId

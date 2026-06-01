@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.util.views;
+package com.vprimex.messenger.util.views;
 
 import android.app.Activity;
 import android.content.Context;

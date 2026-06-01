@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments;
+package com.vprimex.messenger.payments;
 
 import android.os.Parcel;
 import android.os.Parcelable;

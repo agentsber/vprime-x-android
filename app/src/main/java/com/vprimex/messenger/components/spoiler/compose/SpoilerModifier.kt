@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.spoiler.compose
+package com.vprimex.messenger.components.spoiler.compose
 
 import android.graphics.Paint
 import android.graphics.PorterDuff

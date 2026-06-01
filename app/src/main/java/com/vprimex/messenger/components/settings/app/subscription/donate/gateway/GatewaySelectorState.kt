@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.donate.gateway
+package com.vprimex.messenger.components.settings.app.subscription.donate.gateway
 
 import org.signal.core.util.money.FiatMoney
 import com.vprimex.messenger.database.InAppPaymentTable

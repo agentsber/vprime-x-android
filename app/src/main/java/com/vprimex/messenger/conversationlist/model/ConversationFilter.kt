@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversationlist.model
+package com.vprimex.messenger.conversationlist.model
 
 /**
  * Describes what conversations should display in the

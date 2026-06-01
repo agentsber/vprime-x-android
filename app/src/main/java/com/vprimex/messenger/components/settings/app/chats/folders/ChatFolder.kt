@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.chats.folders
+package com.vprimex.messenger.components.settings.app.chats.folders
 
 import com.vprimex.messenger.recipients.Recipient
 

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.preferences.transfer;
+package com.vprimex.messenger.payments.preferences.transfer;
 
 import androidx.annotation.AnyThread;
 import androidx.annotation.NonNull;

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.avatar.text
+package com.vprimex.messenger.avatar.text
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

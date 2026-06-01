@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.keyboard.sticker
+package com.vprimex.messenger.keyboard.sticker
 
 import androidx.annotation.WorkerThread
 import com.vprimex.messenger.components.emoji.EmojiUtil

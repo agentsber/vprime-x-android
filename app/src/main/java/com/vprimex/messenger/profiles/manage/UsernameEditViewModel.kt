@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.profiles.manage
+package com.vprimex.messenger.profiles.manage
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

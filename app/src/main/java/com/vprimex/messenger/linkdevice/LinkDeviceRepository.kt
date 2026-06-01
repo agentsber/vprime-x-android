@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.linkdevice
+package com.vprimex.messenger.linkdevice
 
 import android.net.Uri
 import org.signal.core.models.backup.MessageBackupKey

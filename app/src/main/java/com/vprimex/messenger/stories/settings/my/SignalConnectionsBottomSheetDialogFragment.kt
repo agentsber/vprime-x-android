@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.settings.my
+package com.vprimex.messenger.stories.settings.my
 
 import android.os.Bundle
 import android.view.LayoutInflater

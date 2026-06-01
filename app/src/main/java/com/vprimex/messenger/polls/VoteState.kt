@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.polls
+package com.vprimex.messenger.polls
 
 /**
  * Tracks general state information when a user votes in a poll. Vote states are specific to an option in a poll

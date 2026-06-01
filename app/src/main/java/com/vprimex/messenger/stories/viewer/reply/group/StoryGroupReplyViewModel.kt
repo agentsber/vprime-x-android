@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.reply.group
+package com.vprimex.messenger.stories.viewer.reply.group
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

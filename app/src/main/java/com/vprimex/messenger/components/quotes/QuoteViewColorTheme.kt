@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.quotes
+package com.vprimex.messenger.components.quotes
 
 import android.content.Context
 import androidx.annotation.ColorRes

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database.helpers.migration
+package com.vprimex.messenger.database.helpers.migration
 
 import android.app.Application
 import androidx.core.content.contentValuesOf

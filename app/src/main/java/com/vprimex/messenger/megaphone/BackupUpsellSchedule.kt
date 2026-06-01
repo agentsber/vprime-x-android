@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.megaphone
+package com.vprimex.messenger.megaphone
 
 import com.vprimex.messenger.database.model.MegaphoneRecord
 import kotlin.time.Duration.Companion.days

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.badges.self.none
+package com.vprimex.messenger.badges.self.none
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel

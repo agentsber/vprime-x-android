@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.chats.folders
+package com.vprimex.messenger.components.settings.app.chats.folders
 
 import android.os.Bundle
 import android.view.LayoutInflater

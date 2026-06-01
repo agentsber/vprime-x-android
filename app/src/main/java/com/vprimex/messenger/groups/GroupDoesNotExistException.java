@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.groups;
+package com.vprimex.messenger.groups;
 
 public final class GroupDoesNotExistException extends GroupChangeException {
 

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.video.videoconverter;
+package com.vprimex.messenger.video.videoconverter;
 
 import android.annotation.SuppressLint;
 import android.media.MediaCodec;

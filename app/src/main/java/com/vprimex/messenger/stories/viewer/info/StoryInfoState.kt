@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.stories.viewer.info
+package com.vprimex.messenger.stories.viewer.info
 
 import com.vprimex.messenger.database.model.MmsMessageRecord
 import com.vprimex.messenger.messagedetails.MessageDetails

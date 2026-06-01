@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.migrations
+package com.vprimex.messenger.migrations
 
 import com.bumptech.glide.Glide
 import org.signal.core.util.logging.Log

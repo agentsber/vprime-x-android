@@ -1,4 +1,4 @@
-﻿@file:JvmName("SafeNavigation")
+@file:JvmName("SafeNavigation")
 
 package com.vprimex.messenger.util.navigation
 

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.conversation.sounds
+package com.vprimex.messenger.components.settings.conversation.sounds
 
 import android.content.Context
 import org.signal.core.util.concurrent.SignalExecutors

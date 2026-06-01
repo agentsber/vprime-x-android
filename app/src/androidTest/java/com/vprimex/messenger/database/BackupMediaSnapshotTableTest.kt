@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.database
+package com.vprimex.messenger.database
 
 import androidx.media3.common.util.Util
 import androidx.test.ext.junit.runners.AndroidJUnit4

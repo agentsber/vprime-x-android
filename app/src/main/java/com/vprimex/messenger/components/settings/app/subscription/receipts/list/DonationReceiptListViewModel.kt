@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.receipts.list
+package com.vprimex.messenger.components.settings.app.subscription.receipts.list
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.notifications.profiles
+package com.vprimex.messenger.notifications.profiles
 
 import android.content.Context
 import org.signal.core.util.concurrent.SignalExecutors

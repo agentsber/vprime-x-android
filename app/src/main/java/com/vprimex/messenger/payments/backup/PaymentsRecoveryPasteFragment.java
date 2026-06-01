@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.backup;
+package com.vprimex.messenger.payments.backup;
 
 import android.app.AlertDialog;
 import android.os.Bundle;

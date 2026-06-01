@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.appearance
+package com.vprimex.messenger.components.settings.app.appearance
 
 import android.app.Activity
 import androidx.lifecycle.ViewModel

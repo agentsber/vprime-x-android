@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.conversation.ui.inlinequery
+package com.vprimex.messenger.conversation.ui.inlinequery
 
 import android.view.View
 import com.vprimex.messenger.R

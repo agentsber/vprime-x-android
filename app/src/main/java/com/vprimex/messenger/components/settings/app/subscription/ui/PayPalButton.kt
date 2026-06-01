@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.components.settings.app.subscription.ui
+package com.vprimex.messenger.components.settings.app.subscription.ui
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.PaddingValues

@@ -1,4 +1,4 @@
-﻿package com.vprimex.messenger.payments.preferences;
+package com.vprimex.messenger.payments.preferences;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
